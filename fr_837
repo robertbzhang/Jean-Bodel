@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    
+	<title>fr837</title>
+    <script src="jquery-1.9.1.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link href="imageviewer.css"  rel="stylesheet" type="text/css" />
+	<script src="lib/jquery-1.11.3.min.js"></script>
+	<script src="imageviewer.js"></script>
+	
+</head>
+<body vlink="white">
+	<!-- <header> -->
+		<!-- <a href="index.html"> -->
+			<!-- <img src="images/logo.jpg" alt="Logo" style="height:100%;"> -->
+		<!-- </a> -->
+	<!-- </header> -->
+	
+    <div id="content">
+
+		<div id="left">
+			<div id="image-gallery">
+				<div class="image-container"></div>
+				<img src="images/left.svg" class="prev"/>
+				<img src="images/right.svg"  class="next"/>
+				<div class="footer-info">
+					<span class="current"></span>/<span class="total"></span>
+				</div>
+			</div>   
+			<script type="text/javascript">
+			$(function () {
+				var images = [{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b9009629n/f63.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b9009629n/f64.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b9009629n/f65.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b9009629n/f66.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b9009629n/f67.highres',
+				}];
+			 
+				var curImageIdx = 1,
+					total = images.length;
+				var wrapper = $('#image-gallery'),
+					curSpan = wrapper.find('.current');
+				var viewer = ImageViewer(wrapper.find('.image-container'));
+			 
+				//display total count
+				wrapper.find('.total').html(total);
+			 
+				function showImage(){
+					var imgObj = images[curImageIdx - 1];
+					viewer.load(imgObj.small, imgObj.big);
+					curSpan.html(curImageIdx);
+					if (curImageIdx == 1) {
+						document.getElementById("Transcription").innerHTML = "";
+					} else if (curImageIdx == 2) {
+						document.getElementById("Transcription").innerHTML = "";
+					}
+				}
+			 
+				wrapper.find('.next').click(function(){
+					 curImageIdx++;
+					if(curImageIdx > total) curImageIdx = 1;
+					showImage();
+				});
+			 
+				wrapper.find('.prev').click(function(){
+					 curImageIdx--;
+					if(curImageIdx < 0) curImageIdx = total;
+					showImage();
+				});
+			 
+				//initially show image
+				showImage();
+			});
+			</script>
+		
+		</div>
+		<div id="right">
+			
+			<div id="documentName">
+				<a href="/">Home</a>
+				/ fr837
+			</div>
+			
+			<ul class="tab">
+				<li><a href="javascript:;" class="tablinks active" onclick="openCity(event, 'About')">About</a></li>
+				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Transcription')">Transcription</a></li>
+<!--				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Translation')">Translation</a></li>-->
+                <div id="Download"><a href="docs/fr837.xml" download>Download TEI</a></div>
+
+			</ul>
+			
+			<div id="About" class="tabcontent">
+				<p>BnF fr. 837 is in the process of transcription. It appears to be incomplete and the bibliographic reference at Arlima appears to be incorrect. </p>
+			</div>
+
+			<div id="Transcription" class="tabcontent">
+			  <p></p> 
+			</div>
+			<div id="Translation" class="tabcontent">
+				<p>BnF fr. 837 is in the process of translation.</p>
+			</div>
+			<script>
+				function openCity(evt, cityName) {
+					// Declare all variables
+					var i, tabcontent, tablinks;
+
+					// Get all elements with class="tabcontent" and hide them
+					tabcontent = document.getElementsByClassName("tabcontent");
+					for (i = 0; i < tabcontent.length; i++) {
+						tabcontent[i].style.display = "none";
+					}
+
+					// Get all elements with class="tablinks" and remove the class "active"
+					tablinks = document.getElementsByClassName("tablinks");
+					for (i = 0; i < tablinks.length; i++) {
+						tablinks[i].className = tablinks[i].className.replace(" active", "");
+					}
+
+					// Show the current tab, and add an "active" class to the link that opened the tab
+					document.getElementById(cityName).style.display = "block";
+					evt.currentTarget.className += " active";
+				}
+			</script>
+
+			
+			<div id="footer">
+				<!-- &copy; Lynn Ramey 2016, All rights reserved. -->
+				<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+					<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
+				</a>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

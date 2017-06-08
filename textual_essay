@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+	<title>Jean Bodel - Les Cong&eacutes</title>
+	<link rel="stylesheet" href="essay_style.css">
+	<link rel="icon" href="images/favicon.png">
+</head>
+<body>
+	<a href="/">
+		<div id="background"></div>
+	</a>
+	<div id="title">
+		<div id="title_content">
+			<div id="title_content1">
+				Jean Bodel - Les Cong&eacutes
+			</div>
+		</div>
+	</div>
+	
+	
+	<div id="content">
+		<ul id="tabs">
+			<li><a href="/">Home</a></li>
+			<li><a href="english_translation">English Translation</a></li>
+			<li><a href="materials_procedures_conditions">Materials, Procedures, and Conditions</a></li>
+			<li><a href="textual_essay">Textual Essay</a></li>
+			<li><a href="production">Production</a></li>
+            <li><a href="https://goo.gl/forms/hvJ069TdM7lAK0w52">Contact Us</a></li>
+		</ul>
+
+		<div id="essay">
+			<h2>Textual Essay</h2>
+			<b>Comparison Arsenal 3114 and BNF fr375</b>
+			<p>In the comparison between the manuscripts Arsenal 3114 and BNF fr375, there are many similarities in abbreviations and style, as would be expected from two texts written in the same language and period. However, though the two manuscripts were created around the same time in the late thirteenth century, there are many notable stylistic and grammatical differences between them.</p>
+			<b>Layout</b>
+			<p>The layout of each manuscript is unique. In Arsenal 3114, the first letter of each stanza begins with a large first letter, which alternates between blue and red in the succeeding stanzas. The Arsenal 3114 manuscript is written in a clean hand, and the parchment is in good condition. Each page of the manuscript is divided into two columns of forty lines each. Each line begins with a letter to the left that begins the first word that follows. Li Congiet spans five of the nineteen pages found in the binding, which contains more written works from other authors of the era.</p>
+			<b>Date of composition, quality of ms</b>
+			<p>The BNF fr 375 manuscript was completed on February 2, 1288. Much like Arsenal 3114, this manuscript also alternates between blue and red letters at the beginning of each stanza. However, the quality of this manuscript is much less pristine. The page containing Congés is broken into four columns of sixty lines each. Although this is the case for Bodel’s poem, earlier pages in the same binding are broken into two and three columns depending on their location in the text. The parchment is fairly well preserved, but some words of the text have deteriorated and are thus illegible.</p>
+			<b>Orthography</b>
+			<p>In BNF fr 375, the spelling also differs from Arsenal 3114. In many cases, words that contain the vowel series “oeu” in Arsenal 3114 simply contain “oe” in BNF fr 375. For example, “soef.” This omission of the letter “u” is present in other words as well, such as “tot,” “sofrance,” and “tos.” In many cases, a “k” is used in place of the letter “qu,” whereas Arsenal 3114 has very few instances of the letter “k.” Additionally, the letter “v” is frequently used in the BNF fr 375 manuscript. As a result, the BNF fr 372 text seems to be more phonetically based than Arsenal 3114. In Arsenal 3114, the author of the manuscript uses “u” in the place of “v” in nearly all instances. Arsenal 3114 also uses “y” in the place of “I” with relative frequency. Words such as “Symon,” “toy,” and “pourquoy” are just a few examples within Arsenal 3114. In BNF fr 375, the letter “y” is not used. The use of abbreviations and shortened words is also much more apparent in BNF fr 375.</p>
+			<b>Stanzas and order</b>
+			<p>Though the number of stanzas in BNF fr 375 is much lower than in Arsenal 3114, this particular manuscript includes several stanzas that are not present in the other. For the stanzas that exist in both manuscripts, the order of the stanzas also differs. Whereas Arsenal 3114 contains many more stanzas and follows an order similar to other manuscripts, BNF fr 375 contains lines and stanzas that do not appear in other manuscripts.</p>
+			<p>Although Arsenal 3114 and BNF fr 375 are copies of the same poem, Arsenal 3114 is noticeably more complete. Arsenal 3114 contains thirty-five stanzas, whereas BNF fr 375 contains nineteen. Many stanzas in Arsenal 3114 do not exist in BNF fr 375, and some stanzas in Arsenal 375 are not found in Arsenal 3114. Differences vary from several words per line to entire stanzas that do not match.</p>
+			<p>BNF fr 375 does not start with the introduction found in several other manuscripts including Arsenal 3114. The manuscript instead starts with the second stanza of Arsenal 3114. BNF fr 375 also lacks the same order for the existing stanzas. For example, the third stanza of BNF fr 365, which starts with “Robert Werri,” is not found until the fourteenth stanza of Arsenal 3114. Several other stanzas are found later in BNF fr 375 as well: the stanzas starting with “Tibaut de le piere,” “Huo congie waubers,” “Courociez et hontex,” and “Bretel Quel Gre” each appear significantly after the same verses in Arsenal 3114. On the other hand, some stanzas in Arsenal 3114 are found earlier in BNF fr 375. The stanzas that begin with “Robert Werri,” “Ha nicoles li carpentiers” and “Ha maistre renaut” appear earlier in BNF fr 375.</p>
+			<p>The two versions of Les Congés do not match closely in terms of organization other than a few stanzas that appear in similar locations within the respective manuscripts. Though many similar lines appear in different stanzas, the manuscripts as a whole are very different.</p>
+			<b>Use of abbreviations</b>
+			<p>In addition to stylistic differences, both share similarities in the abbreviations used throughout the document. In Arsenal 3114, the scribe often uses symbols to represent words and prefixes such as “par” and “con.” For BNF fr 375, there are additional symbols used by the author of the manuscript. A symbol for “vos” is used in many locations within the manuscript. Towards the end of the manuscript, a symbol for “est” is used that is not used in the beginning of the text. In regards to both manuscripts, the usage of abbreviations for “que” and “qui” are common.
+			</p>
+			
+			<br>
+		</div>
+	</div>
+
+
+	
+	<footer>
+		&copy; Lynn Ramey 2016, All rights reserved.
+		<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+			<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
+		</a>
+	</footer>
+</body>
+</html>

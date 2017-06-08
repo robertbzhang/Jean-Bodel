@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+	 		<titleStmt>
+				<title>BNFfr837</title>
+	 		</titleStmt>
+	 		<publicationStmt>
+				<publisher></publisher>
+				<pubPlace></pubPlace>
+				<date></date>
+				<authority></authority>
+			   <availability>
+			      <p></p> 
+				</availability>
+		   </publicationStmt>
+	 		<sourceDesc>
+	 	      <p></p>
+	 		</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+ <text>
+	<body><p><pb facs="78a3ed54-d90a-4924-a8eb-9bdd5263ed1d"/>[note the folio in the reference were incorrect. this is the first page of the congés]<pb facs="d9347320-8665-4193-aae0-2439a37c7d79"/><pb facs="bfaf8108-41dc-4521-8f9d-5da50670da7a"/><pb facs="33d70682-ee10-4262-9df2-208a9adfc635"/><pb facs="3939ff05-2f15-4727-a8b3-1392db6dd254"/></p></body>
+ </text>
+</TEI>

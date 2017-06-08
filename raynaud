@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    
+	<title>Raynaud Edition</title>
+	<meta charset="utf-8" />
+    <script src="jquery-1.9.1.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link href="imageviewer.css"  rel="stylesheet" type="text/css" />
+	<script src="lib/jquery-1.11.3.min.js"></script>
+	<script src="imageviewer.js"></script>
+	<link rel="icon" href="images/favicon.png">
+</head>
+<body vlink="white">
+	<!-- <header> -->
+		<!-- <a href="index.html"> -->
+			<!-- <img src="images/logo.jpg" alt="Logo" style="height:100%;"> -->
+		<!-- </a> -->
+	<!-- </header> -->
+	
+    <div id="content">
+<script id="details" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+	 		<titleStmt>
+				<title>Reynaud edition</title>
+	 		</titleStmt>
+	 		<publicationStmt>
+				<publisher></publisher>
+				<pubPlace></pubPlace>
+				<date></date>
+				<authority></authority>
+			   <availability>
+			      <p></p> 
+				</availability>
+		   </publicationStmt>
+	 		<sourceDesc>
+	 	      <p></p>
+	 		</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+ </script>
+<script id="page1" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="2bead859-d0a0-42ab-901e-5c77fb8182cd"/>I. 
+                                                
+Pities, o me matire puise,           
+M&apos;enseigne qu’en cho me deduise      
+Que jo sor me matire die;            
+N’est drois que men sens amenuise    
+Por nul mal qui le cors destruise,   
+Dont Deus a fait se comandie.        
+Puis qu’il m’a joé de bondie,        
+Sans barat et sans truandie          
+Est drois que jo a cascun ruise      
+Tel don que nus ne m’escondie,       
+Congié, ains qu’en me contredie,     
+Quaradès crien que ne lor nuise.</body></text></TEI></script>
+
+<script id="page2" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="1477c688-86be-458b-83b4-087ab7f550fc"/>II.                                
+                                    
+Congié demant tot premerain         
+A chelui qui plus m’est a main      
+Et dont jo plus loer me doi:        
+<name>Johan Bosket</name>, a Deu remain!         
+Sovent recort et soir et main       
+Les biens que j’ai troves en toi.   
+Se jo plor sovent en requoi,        
+Assés i a raison por quoi,          
+Auques anuit et plus demain.        
+Neporquant, se jo ne vos voi,       
+Men cuer purement vos envoi :       
+Tant a en moi remés de sain.        
+</body></text></TEI></script>
+
+<script id="page3" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="b0135312-5a8f-4e92-ad86-73f9dbb5a65f"/>III.                                 
+                                      
+Cuers, se tu trop vilains nen iés,    
+Ja ne li oncles ne li niés            
+N’ierent de men escrit plané,         
+Car en aus ert mes liges fiés;        
+Onques ne lor sambloie viés :         
+Tos tens m’ont a lor cost mené.       
+Chertes ne sont mie engané ;          
+Por Deu soit cho qu’il m’ont doné,    
+Teusdons est mout bien enploiés.      
+Or m’a Deus a point ramené            
+A cho qu’il m’avoit destiné,          
+Dont jo sui et doians et liés.        
+                                      
+IV.
+
+</p><p><name>Simon Disier</name>, de vos me vant          
+Tos jors, et après et devant,         
+Quar tote honor en vos akieve;        
+Mainte gent s&apos;en vont parchevant:     
+Vo baniere a non Passe avant,         
+Qui tos les abatus relieve.           
+Simons, uns maus qui en moi lieve,    
+Qui a tot men yivant me fieve,        
+Fait que le congié vos demant,        
+Si doians que li cuers me crieve;     
+Mais nule riens tant ne me grieve       
+Con fait dire : a Deu vos comant! 
+
+</p><p>V. 
+
+</p><p>Congié demant de cuer mari            
+A chiaus qui soef m’ont nori          
+Et a <name>Bauduïn Sotemont</name> :              
+Onques nel trovai esmari ;             
+Le cuer a en bonté flori              
+</p></body></text></TEI></script>
+
+<script id="page4" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="04b703d8-7d76-438d-8750-4247d4305a2f"/>Qui de bien faire !e semont ;         
+Deus croisse s&apos;onor et araont!       
+Amer se fait a tot le mont :          
+A l’ame li soit il meri              
+En le joie del chiel lamont,         
+Et tos chiaus qui tant sofert m’ont   
+Moitié sain et moitié pori! 
+
+</p><p>VI.     
+
+</p><p><name>Tiebaut de le Piere</name>, en ches vers    
+Preng congié, honteus et covers      
+Con chil que Fortune desmonte.       
+Tant m’est mais li siecles divers    
+Que n’os aler fors les travers;      
+Nule povretés ne ra’esfronte,       
+Tot men mal obli et mesconte,        
+Mais li penitanche est el honte      
+Qui seus est et descovers,           
+Et Deus qui tote rien sormonte       
+En penitanche le me conte!           
+Quar trop aroie en deus enfers. 
+
+</p><p>VII.  
+
+</p><p><name>Bertel</name>, quel gré que jo en aie,      
+Me covient que jo me retraie         
+Del siecle, o me keanche enpire,     
+Que Deus reposer ne m’i laie:        
+Enfreté et poison et plaie           
+M&apos;a doné por le cors despire.        
+De l’une part plor et sospire,       
+Qu&apos;or m’estovra gaitier le pire;     
+Et de l&apos;autre part me repaie :        
+Deus doinst qu’a li servir ra’espire 
+Quar al cors est mesgius li pire,    
+De quel merele que jo traie.         
+
+</p></body></text></TEI></script>
+
+<script id="page5" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="449fcc81-d56d-4c89-a131-c9f23a1bf01f"/>VIII.                                  
+                                        
+Anuis qui en men cuer avale             
+O kiere tempestée et pale,              
+Qui me fait sople devenir,              
+Ainchois que jo torse me male,          
+Die qu’a <name>Wibert de le Sale</name>              
+Prende congié sans revenir.             
+Bien me doit tos jors sans fenir        
+De sen gentil cors sovenir              
+O il n’a ne soros ne gale,              
+Et de moi soit al covenir,              
+Quar jo ne puis nape tenir              
+Entre sains, puis que jo mesale.  
+
+</p><p>IX.                   
+
+</p><p><name>Waast Hukedeu</name>, tote voie                
+Sui jo vostres o que jo soie,          
+Quar ainc ne vos trovai onbrage;        
+Espoir, se j’alaisse en le voie         
+O jo pas aler ne devoie,                
+Mieus me fust de vostre voiage;         
+Mais j’ai fait men pelerinage :         
+Deus m’a desfendu ie passage            
+Dont bone volenté avoie;                
+Neporquant jo le tieng a sage :         
+Mors est, j’en ai eü message,          
+Li Sarasins que jo haoie.  
+
+</p><p>X.                                      
+                                        
+<name>Robert Cosset</name>, a cuer pensiu</body></text></TEI></script>
+
+<script id="page6" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="dd10dd3c-a5aa-46bc-8245-ce6d950589a8"/>Comant a Deu vos et <name>Mahiu</name>,         
+Quar de moi est pris li consaus;   
+De vos et des autres m’eskiu :     
+Che qu’al siecle ne voi men liu    
+Me fait joer a reponaus.         
+Tost monte uns hom come amiraus,   
+Et tost rekiet come orinaus;       
+Tost a cangié chire por siu :      
+Con plus fui en le roe haus        
+Et j&apos;oi tos fais mes enviaus,      
+Lors me covint perdre le giu.  
+
+</p><p>XI.                          
+
+</p><p>Joie, qui vers moi ies repointe,   
+Dusqu’a <placeName><name>Biaumés</name></placeName> fai une enpointe;  
+Si me salue a cuer haitié          
+Le castelain en cui s’apointe      
+Amors, qui le fait sage et cointe  
+Et de bon aire et afaitié;      
+Tot sen cuer, ne mie a moitie,     
+A en cortoisie apointie,           
+S’en a vilonie desjointe :         
+De sens li muet et de pitié        
+Que a sen cost m’a acointie,       
+Quant tos li mons me desacointe. 
+
+</p><p>XII.              
+
+</p><p>Anuis, qui m’estopes le gueule     
+Qui tant fu envoisie et veule,     
+<name>Robert Locart</name> me di sans faindre   
+Que joie me fuit et eskeule :</body></text></TEI></script>
+
+<script id="page7" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="c3cc0fbf-221d-438b-a67c-e528da998226"/>De dru torment en vuide esteule         
+Sui mis, mais trop aroie a plaindre 
+En tot recorder et refraindre           
+L’anui dont Deus me fait destraindre,   
+Qui si m’abaubitet aveule               
+Que nus ne me poroit ataindre           
+D’anui, que ii miens ne soit graindre;  
+Mais cui vient une, ne vient seute. 
+
+</p><p>XIII. 
+
+</p><p><name>Robert Werri</name>, sans nule dote            
+Me covient partir de le rote :          
+N’i voi mais riens dont jo m&apos;escuse,    
+Quar de moi est sevéee tote             
+Joie qui m’a se triwe rote;             
+Et de tot sen pooir m&apos;acuse !        
+L&apos;enfretés que j’ai tant repuse.        
+Avuec cho m’amenrit et use              
+Hontes que jo tant crien et dote,       
+Qui m’a recomandé le muse               
+Dont jo meismes me refuse:              
+Mieus m’en vient aler qu’en m&apos;en bote.  
+
+</p><p>XIV.                   
+
+</p><p>Anuis qui abas maint baudel, 
+Qui m’as fait torner men caudel,        
+Vers <placeName>Saint Juri</placeName> torne ten frain :       
+<name>Wibert de Biaumont</name> et <name>Ansel</name>             
+Salue par <name>Johan Bodel</name>,                  
+</body></text></TEI></script>
+
+<script id="page8" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="8f7446b3-0217-4b9c-90d9-c33c2c679199"/>Cui Deus met de cueteen estrain.                          
+Signor <name>Mahiu</name>, que jo mout ain,                         
+Di que joie cuite li ciain              
+Dont j’ai bien pris men quaresmel:                     
+Or me mostrent loire et reclain                         
+Chil de <placeName>Miaulens</placeName> et de <placeName>Biaurain</placeName>,                       
+Qui tuit sont pori o fardel.
+
+</p><p>XV. 
+
+</p><p><name>Henris li Noirs</name>, a vos m’afaite,                       
+Se nule rien vos ai mesfaite                           
+Ainchois que jo tiegne me voie;                         
+Mout fu me meskeanche entaite                           
+Puis que j’oi le cop de retraite                       
+Dont jo garder ne me savoie.                           
+Vos m’escueillistes me topoie                           
+A tel ore qu’ainc puis n&apos;oi joie,                       
+Mais honte et anui et sosfraite                         
+Et mal qui avuec moi guerroie;                         
+Mais a tort le vos requerroie,                         
+Quar grant pieche a que Deus me gaite. 
+
+</p><p>XVI.
+
+</p><p>Anuis, qui me fais mat et morne,                      
+Vers <name>Baude Wisternave</name> torne :                           
+De me part congié li demande,                           
+Quar d’aler en un ost m’atorne                         
+Dont nus aliegre ne retorne,                           
+Tant se gart d&apos;enferme viande.</body></text></TEI></script>
+
+<script id="page9" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="da9b15b4-102a-4293-bb25-ec9b89922b5c"/>Et puis que raisons me comande        
+A estre en vie peneande               
+Et mes afaires me bestorne,           
+Chii Deus qui de Ii fist ofrande      
+Le me laist endurer si grande         
+Que en ches tenebres m’ajorne. 
+
+</p><p>XVII.   
+
+</p><p>Pitié pri qui me nef governe,         
+A1 Castelain conte et discherne       
+Et <name>Bauduïn</name> sen fil meïsme,            
+Coment Deus a sen droit me ferne :     
+Quar jo floris quant il iverne        
+Et quant il fait esté jo rime.    
+Emi! contre poi! rewaïme;            
+Mais Deus m&apos;a joé d’un sofisme,       
+Que tuit li mire de Salerne           
+N’abaisseroient cheste lime;          
+Quar jo fui obliés a disme:           
+Ch’est uns blés qui volentiers gerne.
+
+</p><p>XVIII.         
+
+</p><p><name>Jaques al Dent</name>, que que j’i mete,
+Me covient que men giu demete:        
+N’i afiert mais nule dotanche.        
+Sovent botiés a me carete,            
+Ains que li maus dont en me rete      
+Me partist de vostre acointanche. 
+Or n’atent mais nule pitanche         
+Qui aliege me mesestanche,            
+Ne ia Deus ne s’en entremete</body></text></TEI></script>
+
+<script id="page10" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="6c7fe9ee-d0ef-4561-8fd4-838944317789"/>Que ii cheste dolor m’estanche,       
+Ains doinst al cors tel penitanche    
+Par quoi l’ame soit fors de dete. 
+                                      
+XIX. 
+
+</p><p>Pities, qui en men cuer se met,       
+Va moi la o jo te tramet,             
+Quar jo n’os aler si avant;           
+Pren congié a <name>Pieron Wasket</name>:          
+Mout m’a fait et mout me pramet       
+Qu’encore fera en avant :          
+Maint bien m’ont fait li markeant.    
+A li et a <name>Simon Durant</name>               
+De me besoingne t’entremet;           
+Quar ainc ne furent recreant          
+De moi aidier a lor vivant:           
+A Deu meïsme les en met. 
+
+</p><p>XX. 
+
+</p><p><name>Raol Ravuïn</name>, gentius maire,           
+Or i puet en aumosne faire            
+En moi qui sui vostre confrere ;      
+Or n’ai mais al siecle que faire,     
+Ains me covient ariere traire ;       
+Et neporquant, quant jo i ere,    
+Par tot trovoie pere et mere;         
+Or est drois que jo le compere,       
+Mais tot me doit seoir et plaire      
+Al cors dure vie et amere             
+Por faire l&apos;ame nete et clere :        
+Ausi est li cors a refaire.</body></text></TEI></script>
+
+<script id="page11" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="3cf7e127-4136-44d3-a6a9-90d6345380fc"/>Que sans vostre congié m’en voise    
+Faire me peneuse semaine.            
+Tant sai vo maniere cortoise         
+Se viaus non je cuit qu’il vos poise 
+Que j’ai canté le daerraine ; 
+Mais s’issir puet por nule paine     
+De cors enferm parole saine,        
+Dont est drois que men sens aoise;   
+Or primes sordra li fontaine :       
+Mes cuers et li maus qui me maine    
+Ne sont pas fait d’une despoise. 
+
+</p><p>XXIV.                 
+
+</p><p>Pitiés, qui m’as apris ten livre,    
+Vers <name>Baude Bolart</name> me delivre :       
+Di li que il a Deu remaigne,         
+Que hontes et anuis m&apos;enivre         
+Qui nuit et jor assaut me livre,     
+Et loe et castie et ensaigne    
+Que, por aise qui me sosfraigne,     
+Plus ne me mete en lor conpaigne:    
+Assés en ont sofert le cuivre.       
+Loer me doi, qui que s’en plaigne,   
+De Deu qui me donte et ensaigne      
+D&apos;une mort dont en puet revivre.
+
+</p><p>XXV.                
+
+</p><p>Pitiés, qui par vos me dontés,       
+Avuec mes bons amis contés           
+<name>Martin Vrediere</name> de la fors :         
+Par li est li kemins hantés;</body></text></TEI></script>
+
+<script id="page12" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="8f2864dc-28f9-47be-89b6-14c80217ca03"/>XXI.                                      
+                                           
+<name>Warin</name>, puis qu’ainsi m’est jugié,          
+N’en doi aler sans vo congié,              
+Ne jo pas faire ne le vueil :              
+A Deu, amis, vos comant gié.               
+Refuse m’a et calengié                     
+Li mons que jo tant amer sueil;        
+N&apos;a mais cure de men acueil.               
+Mais jo cuidai en autre escueil            
+Avoir le païs eslongié ;                   
+Mais ne me loist passer le sueil :         
+S’en lo Deu et en gré recueil              
+Qui m’a men quaresme alongié. 
+
+</p><p>XXII.    
+
+</p><p>Cuers, va moi la o <name>Baudes</name> maint,           
+Qui tos autres canpions vaint,             
+Quar de bien faire onques ne lasse.        
+Joie, dont petit me remaint,               
+Et santé dont mout me sosfraint            
+Li doinst Deus! cho seroit grant masse.    
+Me dolors totes autres passe,          
+Quar en moi s’aüne et amasse              
+Tos li anuis qui joie estaint,             
+Qui m’a fait avoir en le nasse             
+Del mal dont nus hon ne respasse,          
+Por qu’il l’ait a plain cop ataint.
+
+</p><p>XXIII.  
+
+</p><p><name>Berart</name>, n’est drois, por qu’il me loise,</body></text></TEI></script>
+
+<script id="page13" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="ec2d9a5f-8cb4-43a4-9cc7-4450f2be2593"/>Qui en grache prent cheste luite.       
+Or primes doi men sens desclore,        
+Le cuer ovrir et les ieus clore,        
+Quar il m&apos;ajorne et si m’anuite.
+
+</p><p>XXVIII.   
+
+</p><p><name>Bauduïn Fastol</name>, or m’enplaide           
+Une ochoison honteuse et laide,         
+Qui me fait guerpir men estage :        
+Joie qui m’a cueilli en faide           
+Ne m’a riens presté en manaide,         
+Ains a de moi pris doble gage.      
+Kier m’a vendu sen avantage,           
+Mais je tieng a preu le damage          
+Qui chi me nuist, s’il aillors m’aide : 
+Bone esperanche m’assoage               
+De le grant joie a iretage              
+O cascuns a quanqu’il sohaide.
+
+</p><p>XXIX.  
+
+</p><p>Pitiés, va la o jo ne vois,            
+Congié prendre as Piedargentois :       
+Con plus les ain, plus les eskiwe.      
+<name>Robert</name>, chil Deus en cui tu crois,      
+Il te laist bien porter te crois        
+O jo ne puis porter le miwe!       
+Remés sui dedens le banliwe ;           
+Paien ont de moi ferme triwe,           
+Mais se Deus fust assés cortois,        
+Tant m&apos;eüst viaus presté s’aiwe        
+Qu’en le tere qui ja fu siwe            
+Eusse fait un serventois.</body></text></TEI></script>
+
+<script id="page14" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="7dcbba10-8c64-4789-89af-e0c7abf6252d"/>Et <name>Bertran</name> pas n’i mescontés,         
+Quar se promesse m’est tresors.  
+Ja ne il ne <name>Mahius li Fors</name>            
+N’ierent de men escrit mis fors,      
+Coment que soie demontés;             
+Mais contre Deu ne vaut nus sors,     
+Et puis qu’il m’a tolu le cors,       
+Je li doing 1’ame de bontés.
+
+</p><p>XXVI. 
+
+</p><p>Anuis, en cui mes cuers se mire,      
+Salue moi <name>Jofroi le mire</name>,             
+Quar bien doi a li congié prendre :   
+Jo sui ses hon, il est mes sire.      
+Bien ai prové sen maïstire :          
+Nus hon ne 1’en porroit aprendre.
+Mout li covint grant paine rendre     
+A ma car sauder et reprendre          
+Qui tant est de foible matire :       
+Coment osa il entreprendre            
+Tel teste a roisnier et a fendre,     
+Qui ert mauvaise tote entire ?
+
+</p><p>XXVII. 
+
+</p><p>Anuis, qui me joie as destruite,      
+D’<name>Aliaume Piedargent</name> m’acuite :       
+Va, si le me salue encore,            
+Quar metre m’estuet a le fuite        
+Et tote joie clamer cuite             
+Qui m’a nori duskes a ore ;     
+Mais cheste povretés me dore          
+Quar jo sai bien que Deus restore</body></text></TEI></script>
+
+<script id="page15" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="64603856-9288-4b8c-b3f4-944721798d1e"/>XXX.                                     
+                                          
+Coreciés et honteus et mas,               
+Comant a Deu <name>Baude</name> et <name>Tumas</name>,              
+Quar mout pris lor acostumanche :         
+Deus, qui tos biens acostumas,            
+Qui de te verge batu m’as,                
+Done lor vertu et poissanche          
+De maintenir lor bone enfanche !          
+De lor aïwe ere a fianche                 
+S’aler peusse vers Damas;                 
+Mais remés sui par conissanche ;          
+Deus m’a contée me keanche,               
+Si m’a fait geter anbesas.
+
+</p><p>XXXI.   
+
+</p><p>Anuis qui en moi se desploie,             
+Qui m’amatit et asoploie,                 
+Me semont par jor et par nuit             
+Qu’al siecle me toille et desvoie;        
+Et hontes me maine et convoie,            
+Qui piechea m’a pris en conduit;      
+Quar en liu o il ait deduit               
+N’a mais a men ues siege vuit,            
+Ains preng congié con hon sor voie        
+A chelui cui sornons me fuit:             
+Quar grant diferenche a, jo cuit,         
+De <name>Johan Duel</name> a <name>Gerart Joie</name>.
+
+</p><p>XXXII.                    
+                                          
+A vo congie, <name>Waubers li Clers</name>,</body></text></TEI></script>
+
+<script id="page16" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="67049a65-a40b-4565-903f-0c1a4f4e413b"/>M’en vois malades et enfers,           
+Dont Deus tos nos amis defende        
+Entiers m’avés esté et fers;            
+Ainc vos avoirs ne me fu fers           
+Se j’oi mestier d&apos;une provende : 
+Deus bon guerredon vos en rende         
+Et de moi tel venganche prende          
+Que li siens huis me soit defers;       
+A sen cois en a pris amende,            
+Sans nul respas qu’al cors atende,      
+Quar jo fui entassés trop vers.
+
+</p><p>XXXIII.  
+
+</p><p>Puis que jo de l&apos;aler m’esmuef,          
+N’en doi mie porter l’estuef:           
+Al congié prendre me racort.            
+<name>Gerart d’Espaigne</name>, or sont tuit nuef    
+Vo viés don, et si le vos pruef:        
+Revescu sont par cheste mort.     
+Quanqu’on m’a doné en deport            
+Tot soit en aumosne ressort.            
+Devant Deu vos biens vos repruef,       
+Qu’il a l’ame Ies vos restort :         
+N’ai plus bel don que vos aport         
+A bone estrine a Pan renuef.
+
+</p><p>XXXIV.
+
+</p><p>A Deu comant <name>le Monoier</name>,                
+Chelui cui Deus puist envoier           
+Pooir de porsivir le coite,             
+Quar s’il ne pert par desvoier,</body></text></TEI></script>
+
+<script id="page17" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="5fc69252-67f6-43f7-a3ca-762e92287f38"/>Tost seroies outre wandis               
+O a <name>Barlete</name> o a <name>Brandis</name>.                
+Chi ne pues tu estre eüreus;            
+Fai te voie et moi escondis:            
+Se tu ies la por moi kaitis,            
+Tier chi por toi maleüreus.
+
+</p><p>XXXVII.  
+
+</p><p>Hé! <name>Nicoles li Carpentiers</name>,             
+Conpains de bon aire et entiers,        
+A Deu ! quar de l&apos;aler m&apos;aprest.         
+Améement et volentiers,                 
+Con se vos fuissies mes rentiers,       
+Vos trovoie a men besoing prest.  
+Or n’i a autre tor que chest :          
+Vos en irés el haut conquest            
+O forbatus m’est li sentiers;           
+Deus set qui bons pelerins est,         
+Qui s’aïwe a l&apos;ame me prest,            
+Quar li cors gist sor les gantiers.
+
+</p><p>XXXVIII.  
+
+</p><p>Pitiés, salue de me part                
+<name>Robert al Dent</name>, li et <name>Bernart</name>,          
+Quar tos jors m’ont esté anbeure        
+Amiable et de bone part;                
+Mais por peu Ie cuer ne me part         
+Dobles pensers qui me cort seure.    
+Joie et dolor en men cuer neure,        
+Ri et sospir, et cante et pleure;</body></text></TEI></script>
+
+<script id="page18" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="0ec0802d-89af-4f7e-8fc4-e698a5a842d0"/>Bien se comenche a desploier :          
+Deus li laist se main tenir droite!
+Il a bien prise s’escueilloite :        
+En cho qu’onor aime et covoite          
+Li laist Deus se voie enploier,         
+Et tos chiaus avuec li d’aoite          
+Qui aideront a me cueilloite :          
+Quar trop crien al siecle anoier.
+
+</p><p>XXXV. 
+
+</p><p>Hé! maistre <name>Renaut de Biauvais</name>,         
+Ja est li siecles si mauvais :          
+Quar le fai si con tu le dis .          
+Trop longuement portes ten fais.        
+Alés m&apos;en sui; se tu t’en vais,         
+Mout sera <placeName>Aras</placeName> assordis :       
+De biaus contes et de biaus dis         
+Chertes il ert si rebondis              
+Qu’il n’i recoveront jamais.            
+Jo ne te loseng ne blandis,             
+Mais tos les lorgnes contredis :        
+Savoir dis et folie fais! 
+
+</p><p>XXXVI.  
+
+</p><p><name>Waignet</name>, mout plaing que tu ies teus    
+Que tos jors ies si diseteus;           
+Quar t’esvigore et escaudis;            
+Fai le que cortois et que preus :       
+Porte me crois, s’en aras deus.         
+Quar se tu ieres eslandis,</body></text></TEI></script>
+
+<script id="page19" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="95af2834-2991-4a23-86b3-9560c122ed8d"/>A men sens et a men esgart          
+Sui jo et desos et deseure;         
+Li cors s’en va, l&apos;ame demeure :     
+Ainsi remaing, ainsi m’en part.
+
+</p><p>XXXIX.
+
+</p><p>Anuis, qui en men cuer abonde,      
+Salue moi a le reonde               
+Aras et tote le kemune,             
+Quar tote onor en aus soronde;      
+Mais de totes cheles del monde      
+Mar m’en salueras que une :   
+<name>L’avoeresse de <placeName>Betune</placeName></name>,              
+Plus cortoise ne sai nisune:        
+Ch’est <name>li dame de <placeName>Tenremonde</placeName></name>.       
+Deus qui le fist en piaine lune     
+Mete en li volenté aucune           
+Que se plenté en moi esponde.  
+                                    
+XL.   
+
+</p><p>Pitiés, qui en moi iés esprise,     
+Ne sai qu’autre mès i eslise :      
+Porte al <name>maieur</name> d’<placeName>Aras</placeName> chest brief, 
+Fai tant qu’en devant li le lise;    
+Se Deu plaist et se gentelise,      
+Ja en li ne perdrai men fief.   
+Et as eskevins de rekief            
+Le fai lire de kief en kief,        
+Tant que pities lor en soit prise;  
+Quar se j’ai anui et meskief,</body></text></TEI></script>
+
+<script id="page20" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="6cb05e2a-3d31-4c9c-af89-f9f1f2158695"/>Par raison lor doit estre grief:          
+Avenu m&apos;est en lor servise.
+
+</p><p>XLI.    
+
+</p><p>Seignor, ainchois que jo m’en aille,      
+Vos proi a cheste definable               
+Por Deu et por nativité                   
+Qu’entre vos fachiés une taille           
+A parfornir cheste bataille               
+Dont cascuns doit avoir pité.         
+Mout m’ariés bien aïreté,                 
+S’a <placeName>Miaulens</placeName> m’aviés boté ;               
+Jo ne sai maison qui le vaille;           
+Pieche a m’a li lius delité,             
+Quar gent i a de carité :                 
+Bien me sofiroit lor vitaille.
+
+</p><p>(XLII.) 
+
+</p><p>Dame, cui Dieus est pere et fis,          
+Veuilliez que ne soit desconfis           
+Mes cuers, quoi qu’il me mesaviengne ;    
+Car je sui de ce trestout fis             
+K’en rien ne gist tant mes porfis         
+K&apos;en ce que je si me maintiengne     
+Que en vo service me tiengne.             
+Plaise vous quainsi m’en aviengne         
+Et que adls soit ententis                 
+Mes cuers, quels que mes cuers deviengne, 
+Que tout adès li ressouviengne           
+Et d’<placeName>enfer</placeName> et de <placeName>paradis</placeName>.        
+
+</p><p>
+</p></body>
+</text>
+</TEI>
+</script>
+
+		<div id="left">
+			<div id="image-gallery">
+				<div class="image-container"></div>
+				<img src="images/left.svg" class="prev"/>
+				<img src="images/right.svg"  class="next"/>
+				<div class="footer-info">
+					<span class="current"></span>/<span class="total"></span>
+				</div>
+			</div>   
+			<script type="text/javascript">
+			$(function () {
+				var images = [{
+					small : 'images/download.png',
+				},{
+					small : 'images/download (1).png',
+				},{
+					small : 'images/download (2).png',
+				},{
+					small : 'images/download (3).png',
+				},{
+					small : 'images/download (4).png',
+				},{
+					small : 'images/download (5).png',
+				},{
+					small : 'images/download (6).png',
+				},{
+					small : 'images/download (7).png',
+				},{
+					small : 'images/download (8).png',
+				},{
+					small : 'images/download (9).png',
+				},{
+					small : 'images/download (10).png',
+				},{
+					small : 'images/download (11).png',
+				},{
+					small : 'images/download (12).png',
+				},{
+					small : 'images/download (13).png',
+				},{
+					small : 'images/download (14).png',
+				},{
+					small : 'images/download (15).png',
+				},{
+					small : 'images/download (16).png',
+				},{
+					small : 'images/download (17).png',
+				},{
+					small : 'images/download (18).png',
+				},{
+					small : 'images/download (19).png',
+				}];
+			 
+				var curImageIdx = 1,
+					total = images.length;
+				var wrapper = $('#image-gallery'),
+					curSpan = wrapper.find('.current');
+				var viewer = ImageViewer(wrapper.find('.image-container'));
+			 
+				//display total count
+				wrapper.find('.total').html(total);
+			 
+				function showImage(){
+					var imgObj = images[curImageIdx - 1];
+					viewer.load(imgObj.small, imgObj.big);
+					curSpan.html(curImageIdx);
+					if (curImageIdx == 1) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page1').innerHTML;
+					} else if (curImageIdx == 2) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page2').innerHTML;
+					} else if (curImageIdx == 3) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page3').innerHTML;
+					} else if (curImageIdx == 4) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page4').innerHTML;
+					} else if (curImageIdx == 5) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page5').innerHTML;
+					} else if (curImageIdx == 6) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page6').innerHTML;
+					} else if (curImageIdx == 7) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page7').innerHTML;
+					} else if (curImageIdx == 8) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page8').innerHTML;
+					} else if (curImageIdx == 9) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page9').innerHTML;
+					} else if (curImageIdx == 10) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page10').innerHTML;
+					} else if (curImageIdx == 11) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page11').innerHTML;
+					} else if (curImageIdx == 12) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page12').innerHTML;
+					} else if (curImageIdx == 13) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page13').innerHTML;
+					} else if (curImageIdx == 14) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page14').innerHTML;
+					} else if (curImageIdx == 15) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page15').innerHTML;
+					} else if (curImageIdx == 16) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page16').innerHTML;
+					} else if (curImageIdx == 17) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page17').innerHTML;
+					} else if (curImageIdx == 18) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page18').innerHTML;
+					} else if (curImageIdx == 19) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page19').innerHTML;
+					} else if (curImageIdx == 20) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page20').innerHTML;
+					}
+					if (curImageIdx == 1) {
+						//document.getElementById("Transcription").innerHTML = "I.<br /> Pities, o me matire puise,<br /> M'enseigne qu’en cho me deduise<br /> Que jo sor me matire die;<br /> N’est drois que men sens amenuise<br /> Por nul mal qui le cors destruise,<br /> Dont Deus a fait se comandie.<br /> Puis qu’il m’a joé de bondie,<br /> Sans barat et sans truandie<br /> Est drois que jo a cascun ruise<br /> Tel don que nus ne m’escondie,<br /> Congié, ains qu’en me contredie,<br /> Quaradès crien que ne lor nuise.<br />";
+						document.getElementById("Translation").innerHTML = "I<br />[Lady] Pity, the source of my inspiration,<br />directed me to entertain myself<br />by speaking of my own life.<br />It is not right that my mind lessen<br />because of any evil that destroys my body,<br />brought on by God.<br />Because He has sounded the horn for me,<br />without deceit or villainy<br />on my part it is appropriate that I ask from each<br />a gift that none would refuse,<br />because from here on out I fear I might inconvenience them.";
+					} else if (curImageIdx == 2) {
+						//document.getElementById("Transcription").innerHTML = "II.<br />Congié demant tot premerain<br />A chelui qui plus m’est a main<br />Et dont jo plus loer me doi:<br /><rs type=\"person\">Johan Bosket</rs>, a Deu remain!<br />Sovent recort et soir et main<br />Les biens que j’ai troves en toi.<br />Se jo plor sovent en requoi,<br />Assés i a raison por quoi,<br />Auques anuit et plus demain.<br />Neporquant, se jo ne vos voi,<br />Men cuer purement vos envoi :<br />Tant a en moi remés de sain.<br />";
+						document.getElementById("Translation").innerHTML = "II<br />First of all I ask leave<br />of the person who is closest to me<br />and whom I must praise the most:<br />Jehan Boschet, go with God!<br />I weep night and morning<br />remembering the goodness that I found in you.<br />If I cry often in secret,<br />I have plenty of reasons for that,<br />from this moment and even more tomorrow.<br />However, if I do not see you,<br />my heart sends openly to you<br />all that remains healthy.";
+					} else if (curImageIdx == 3) {
+						document.getElementById("Translation").innerHTML = "III<br />Heart, if you do not turn evil,<br />neither the uncle nor the nephew<br />shall be omitted from my missal,<br />for I have declared myself loyal to them:<br />Never did I seem an outcast to them,<br />they always provided for me.<br />They will surely not be a bit upset to find<br />that all they gave me is God’s:<br />such gifts are put to extremely good use.<br />For God did not bring me back<br />to that which He had destined me,<br />for which I am both sorrowful and happy. <br /><br />IV<br />Symon d’Iser, I brag about you<br />always, before and after [first and last?],<br />because all good things are found in you.<br />Many people see this:<br />your banner has the motto “Go forward,”<br />which raises up those who are beaten down.<br />Symon, an evil rises in me,<br />making my whole being its servant<br />and brings me to bid farewell to you<br />so painfully that my heart is breaking from it,<br />because nothing is more painful to me<br />than to have to say to you “God be with you.” <br /><br />V<br />Farewell I bid with a broken heart<br />to those who quenched my thirst<br />and to Baudoin Zoutemont:<br />whom I never found to be vexed;<br />Goodness flourishes in his heart";
+					} else if (curImageIdx == 4) {
+						document.getElementById("Translation").innerHTML = "sowing the seeds of good deeds.<br />May God increase his honor and standing!<br />He makes himself loved by all.<br />May his soul benefit from this<br />in the heavenly joy from above,<br />as well as all those who put up with me<br />half healthy and half rotten! <br /><br />VI<br />Thibaut de la Pierre in these verses<br />give me leave, ashamed and hidden<br />as one abandoned by luck:<br />This earthly existence has become so awful<br />that I don’t dare go forth except in counter-current.<br />No amount of poverty bothers me,<br />all my misfortune I forget and discount,<br />but my poverty is the humiliation<br />that is experienced and brought out;<br />And God, who conquers all things,<br />considers me a penitent,<br />because it would be too much for me to live through Hell twice! <br /><br />VII<br />Bretel, whatever happens to me,<br />it is appropriate for me to withdraw<br />from the world, where my luck is growing worse,<br />God does not wish for me to have rest:<br />Infirmity, both poison and sores,<br />He has given me to hold my body in contempt.<br />I must watch out for the worst;<br />I have anger and sorrow in my heart,<br />but on the other hand God repays me,<br />who aspired to serve Him,<br />for my body is involved in the worst game,<br />no matter which token I draw.";
+					} else if (curImageIdx == 5) {
+						document.getElementById("Translation").innerHTML = "VIII<br />Torment, which descends in my heart<br />with tortured and pale flesh,<br />and which makes me become feeble,<br />before I pack my bags,<br />tell Wibert de la Sale on my behalf<br />that I take leave without returning.<br />Everyday I must, without fail,<br />think of his noble body,<br />which has neither blackened bone nor welt,<br />and for my part come what may,<br />I can never share the table<br />with healthy men because I am leprous. <br /><br />IX<br />Vaast Huche Dieu, in all ways<br />I am your man wherever I may be,<br />for with you I have never found fault.<br />Methinks that if I had gone<br />where I can no longer go,<br />it would be better to have been in your cohort;<br />however, I made my own pilgrimage:<br />God refused me the voyage<br />that I had well intended to make.<br />Nonetheless I find He was wise:<br />he is dead, someone told me,<br />the Saracen that I hate. <br /><br />X<br />Robert Cosset, with a heavy heart";
+					} else if (curImageIdx == 6) {
+						document.getElementById("Translation").innerHTML = "I commend you and Matthew to God,<br />for I have made the decision—<br />I will avoid you and the others,<br />for in this world I do not see a place for me,<br />which makes me play hide-and-seek.<br />Quickly a man rises up as emir,<br />and quickly he falls back down as a serf,<br />wax quickly changed into tallow.<br />Since I was highest on the wheel<br />and I placed all my bets,<br />it is now appropriate that I lose the game. <br /><br />XI<br />Joy, you who aim away from me,<br />aim toward Beaumetz<br />and greet for me with a light heart<br />the lord of the manor with whom<br />Love agrees, who makes him wise and clever<br />and of good humor and well-bred.<br />His whole heart, not at all half,<br />he has dedicated to courtesy,<br />and so has left aside villiany.<br />Reason and pity move him<br />such that at his expense he introduced me<br />to that which I must now leave behind. <br /><br />XII<br />Trouble, which blocks my voice and<br />which was so troublesome and vain,";
+					} else if (curImageIdx == 7) {
+						document.getElementById("Translation").innerHTML = "without any pretense tell Robert Louchart that I said<br />that joy has withdrawn and flees from me.<br />From a solid thorn I have become a hollow straw,<br />but I will have much cause for lamenting<br />if I remember everything and if I hold on to<br />the torment that God inflicts me with,<br />that deafens and blinds me<br />that no one can equal me<br />in grief to the point that mine is not greater;<br />but when one comes it doesn’t come alone. <br /><br />XIII<br />Robert Werri, without any doubt<br />it is appropriate for me to leave the path<br />and not to see anything again, for which I apologize,<br />because from me has left all<br />joy, who has broken the peace with me,<br />and with all its power accuses me<br />of the infirmity that I had well hidden.<br />Along with that, I am lessened and abused by<br />Shame, which I was so anxious of and feared,<br />who encouraged inspiration for me<br />which I myself refuse:<br />it is better that I leave than that I be thrown out. <br /><br />XIV<br />Trouble, who slays much passion,<br />who spilt my warm milk,<br />turn your bridle toward Saint-Géry:<br />greet Wibert of Beaumon and Ansel<br />on the part of Jean Bodel";
+					} else if (curImageIdx == 8) {
+						document.getElementById("Translation").innerHTML = "whom God moves from a feather cushion to a straw bed.<br />tell Lord Mahieu, whom I well love,<br />that I release my hold on joy,<br />which I had well enjoyed before Lent.<br />Now they show me bait and traps,<br />the people of Méaulens and of Beaurains,<br />who are completely spoiled within. <br /><br />XV<br />Henry the Black, I’ve made peace with you<br />in case I did you any wrong<br />before following the path that has been shown me;<br />I reached the pits of despair<br />the day I received a blow that cannot be taken back.<br />I could not save myself.<br />You have always spun the top for me,<br />and since then I have never had any joy,<br />I’ve only known pain, torment, deprivation<br />and an illness at war with me;<br />however I would be wrong to blame you for what has happened to me<br />because God has had his eye on me for a long time. <br /><br />XVI<br />Torment, you who cripple me and make me sorrowful,<br />go and find Baude Guistrenave.<br />Ask him to give me approval to leave,<br />because I am preparing myself to enter an army<br />from which no one emerges in good health,<br />beware the food without change,";
+					} else if (curImageIdx == 9) {
+						document.getElementById("Translation").innerHTML = "and since Reason asks me<br />to lead a life of penitence<br />and things are heading downhill,<br />I ask the God who sacrificed himself<br />to help me endure a torment long enough, so<br />that in the shadows He makes light. <br /><br />XVII<br />Distress, I beg her, she who pilots my ship,<br />to tell the detailed story to the castellan<br />and to Baudouin, his son, in person<br />about how God, according to His will, punishes me.<br />I flower when winter comes,<br />and when summer comes I am covered in frost.<br />Thus in other times I green.<br />But God has played a trick on me so strange<br />that all the doctors in Salerno<br />would not be able to lessen the pain I endure.<br />I’ve been forgotten on the field like offering-wheat.<br />It’s a wheat that sprouts easily. <br /><br />XVIII<br />Jacques Audent, whatever my fate may be,<br />I must abandon the group.<br />Hesitation is no longer possible.<br />Often you have helped me push my cart<br />before the evil for which I am condemned<br />took your company from me.<br />From now on, I no longer count on any pity<br />to lessen my misery,<br />nor any divine intervention";
+					} else if (curImageIdx == 10) {
+						document.getElementById("Translation").innerHTML = "to lessen my pain.<br />May God inflict on my body the punishment<br />that will liberate my soul from its debt. <br /><br />XIX<br />Distress, you who slide into my heart,<br />go in my place where I send you,<br />for I don’t dare go any further.<br />Say goodbye for me to Pierre Wasquet.<br />He has done much for me, for me he promises<br />to do even more in the future.<br />The merchants have been a great strength to me,<br />he and Simon Durand,<br />let them know about my situation<br />for they have never failed<br />to do well by me all their lives.<br />I commend them to God Himself. <br /><br />XX<br />Raoul Ravuin, mayor? with a big heart,<br />in these circumstances one can be charitable<br />toward me, a member of your guild.<br />I have nothing more to do in this world,<br />rather I should withdraw from it.<br />However, when I was there,<br />I found fathers and mothers everywhere.<br />It is right that I pay the price today,<br />but I must accept with good will<br />a difficult and bitter life for my body<br />in order to render my soul clean and pure.<br />one must regenerate one’s body.";
+					} else if (curImageIdx == 11) {
+						document.getElementById("Translation").innerHTML = "XXI<br />Garin, because such is my destiny,<br />I must not leave without your permission<br />and I don’t wish to do so:<br />my friend, I commend you to God.<br />My presence is contested and refused<br />by the society that I have never ceased to love so,<br />it no longer wishes to welcome me,<br />I always imagined that in another path<br />I would be far from this country,<br />but I am not permitted to cross the threshold.<br />However I praise God and obey him willingly<br />in order to prolong my period of sacrifice. <br /><br />XXII<br />Heart, go to the home of Baudouin,<br />that great tournament champion.<br />He never ceases to act as a man of honor.<br />May God give him the joy of which I have little,<br />the health which I lack,<br />and the advantages that He passes under my nose.<br />It will be great wealth for him, because in me<br />there is a mass and concentration<br />of all the suffering that extinguishes joy.<br />God made me fall into the depths,<br />I suffer from an evil from which no ones escapes<br />when it has struck the target with its strength. <br /><br />XXIII<br />Bérard, it is not right even if I am allowed to do so";
+					} else if (curImageIdx == 12) {
+						document.getElementById("Translation").innerHTML = "that I leave without your permission<br />to live my Holy Week.<br />I know so well your delicate nature<br />that, I know it well, you are saddened<br />to have heard he sing my last song.<br />But if, not without difficulty, one can put out<br />from a sick body a healthy word<br />then it is right that I do not silence my thoughts.<br />Here is the spring ready to bubble forth:<br />my heart and the evil that dominates me<br />are not of the same nature. <br /><br />XXIV<br />Distress, you who taught me the contents of your book,<br />deliver to Baude Boulard my message:<br />tell him that may God keep him safe,<br />and that Shame and Torment make me lose my head<br />as they attack me night and day.<br />They have warned me and strongly let me know<br />that, even if I suffer from the lack of a friend,<br />I must not seek the company of any of them—<br />they have been bothered enough.<br />I must congratulate myself, even one must hate it,<br />that God has marked me with the seal<br />of a death from which can come a new life. <br /><br />XXV<br />Distress, you alone who have tamed me,<br />count among my good friends<br />Martin Verdière who lives outside these walls.<br />He walks on the good path.";
+					} else if (curImageIdx == 13) {
+						document.getElementById("Translation").innerHTML = "Don’t forget, either, Bertrand,<br />because he has promised me a treasure.<br />Neither he nor Mahieu le Fort will ever<br />be left out of what I write,<br />no matter how unseated I may be.<br />But in order to face God, no spell has power<br />since He has taken my body from me.<br />I give to Him, as is correct, my soul. <br /><br />XXVI<br />Torment, you who grow and fill my heart,<br />say hello from me to Joffroi the doctor.<br />because I must say leave him.<br />I am his vassal and he my lord.<br />I have had the chance to experience his skill,<br />no one could teach him more than he knows.<br />He went to much trouble<br />to seal and sew up my flesh,<br />this substance that has become so fragile.<br />How did he dare to undertake the task<br />of repairing and cutting a head<br />so completely in bad shape! <br /><br />XXVII<br />Torment, you who have destroyed my joy,<br />pay Aliaume Piédargent for me.<br />Go and give him my regards one more time:<br />I must take flight<br />and abandon all the joys<br />that have until now been my nourishment.<br />But this misery spreads gold over me,<br />for I know well that God heals";
+					} else if (curImageIdx == 14) {
+						document.getElementById("Translation").innerHTML = "him that, as a grace, accepts such a battle.<br />Without waiting, I want to make my spirit bloom,<br />open my heart and close my eyes,<br />since for me day breaks when night falls. <br /><br />XXVIII<br />Baudouin Fastoul, here I am before justice:<br />an unpleasant matter that makes me ashamed<br />has disrupted my situation.<br />Joy, which declared war on me,<br />spared me no credit,<br />but demanded double from me.<br />It sold me its favors at an expensive price,<br />yet I see an advantage in the damage<br />that harms me here, if it serves me elsewhere:<br />I feel soothed by the beautiful hope<br />of great inalienable joy<br />where each of us has what we wish for. <br /><br />XXIX<br />Distress, go there where I do not go,<br />to bid farewell to the Piédargents:<br />the more I love them, the more I avoid them.<br />Simon, may the God in whom you believe<br />make you wear your cross<br />there where I cannot wear mine!<br />By not leaving the suburbs,<br />I have granted the pagans a long-lasting truce;<br />but if God had been magnanimous,<br />He would not have failed to provide me with assistance,<br />to the extent that on earth, which was previously his,<br />I would have written a serventois of the Crusade.";
+					} else if (curImageIdx == 15) {
+						document.getElementById("Translation").innerHTML = "XXX<br />In my sorrow, my shame and my weariness,<br />I place in God’s care Baude and Thomas<br />whose usual conduct I greatly appreciate.<br />God, source of all commodities,<br />You who flogged me with your rod,<br />give them the strength and the power<br />to retain the purity of their youth!<br />I could have been sure of their help<br />if I had been able to go to Damascus,<br />but I stayed, and I know why:<br />upon the dice, God counted all my pips ,<br />yet he made me roll two aces .<br /><br />XXXI<br />Distress, which spreads within me,<br />which enfeebles me and knocks me down,<br />exhorts me day and night<br />to contradict myself and to turn away from the world,<br />along with Shame, which too has accompanied me<br />and escorted me for a long time:<br />there where joy reigns,<br />there is no more available space for me;<br />but, already on the way, I take my leave<br />of him whose alias eludes me,<br />for the distance is great, I believe,<br />between Jean Sadness and Gérard Joy. <br /><br />XXXII<br />With your leave, Waubert le Clerc,";
+					} else if (curImageIdx == 16) {
+						document.getElementById("Translation").innerHTML = "I go suffering from a terrible pain,<br />God protects all my friends from it!<br />You have been sincere and loyal to me,<br />you never closed your door on me<br />each time that I wanted to share your meal:<br />may God reward you generously<br />and take revenge on me<br />in such a manner that his door will be open to me!<br />He has chosen the way to make me atone for my sins<br />without leaving my body any hope of recovery,<br />for I have been stacked too green. <br /><br />XXXIII<br />I am prepared to leave,<br />but even so, I must not carry the bale along :<br />I made the decision to bid farewell.<br />Gérard d’Espagne, they are still brand new<br />your gifts of old, and here is the proof:<br />they regain life through my death;<br />all that I have been given for my pleasure,<br />provided that everything is a sign of kindness, comes back to life.<br />Close to God, for you, I make the most of your acts of generosity<br />so that He will return them to your soul:<br />I do not have a worthier offering to present you<br />as a New Year’s gift. <br /><br />XXXIV<br />I place in God’s care the Monnoier:<br />May God grant him<br />the possibility of continuing his journey,<br />for, if he does not lose his bearings in straying from the path,";
+					} else if (curImageIdx == 17) {
+						document.getElementById("Translation").innerHTML = "he starts to blossom!<br />May God make him hold his hand steady!<br />He has gained momentum;<br />as he loves and ardently desires honor,<br />May God permit him to follow the route that he has chosen,<br />him, as well as all those<br />who will contribute to paying my pension:<br />My biggest fear is inconveniencing the world! <br /><br />XXXV<br />Ah! Master Renaut de Beauvois,<br />the world is certainly very bad!<br />So behave as well as you say you do,<br />you have borne your burden for a very long time.<br />I have gone; if you left as well,<br />silence would weigh upon Arras.<br />Of beautiful tales and of beautiful words,<br />the city did indeed resound so much<br />that never again will such strains be heard.<br />I declare this to you without flattering or attempting to deceive you,<br />you contradict all those who squint:<br />your words are wise but your actions mad. <br /><br />XXXVI<br />Caignet, I pity you greatly for being destined<br />to live eternally in need.<br />Let’s go, regain vigor, come to life!<br />Comport yourself as a man of good and of honor:<br />wear my cross, and you will have two;<br />for, if you found yourself far from the region,";
+					} else if (curImageIdx == 18) {
+						document.getElementById("Translation").innerHTML = "you would quickly be shielded from misfortune,<br />in Barletta or in Brindisi.<br />Here, you cannot be happy,<br />get going, excuse my absence:<br />if you are over there miserable in my place,<br />I will be here unhappy in your place. <br /><br />XXXVII<br />Ah! Nicolas le Charpentier,<br />my generous and faithful companion,<br />farewell, here I am ready for departure!<br />With affectionate goodwill,<br />as if you were in my debt,<br />you have shown yourself to be available when I needed it .<br />At present, there is no longer any other solution:<br />you will go capture the top prize<br />there where I am blocked from the path.<br />God recognizes the good pilgrim:<br />may He provide my soul with assistance,<br />for my body is already placed on the trestles!<br />XXXVIII<br />Distress, give my regards to<br />Robert Audent, he himself and Bernard,<br />for they have always shown themselves to be at once<br />full of consideration for and attentiveness to me;<br />but my heart is very close to splitting;<br />the twofold thought that assails me<br />nourishes in my heart joy and grief;<br />I laugh and I sigh, I sing and I cry.";
+					} else if (curImageIdx == 19) {
+						document.getElementById("Translation").innerHTML = "I feel absolutely<br />that I have at once the upper and the lower hand:<br />my body passes away, my soul remains;<br />thus I remain, I pass away. <br /><br />XXXIX<br />Distress, you who abound in my heart,<br />give my regards, in all directions, to<br />Arras and to all the people of the commune,<br />for they are filled with blessing and honor,<br />but more than any woman in the world,<br />I insist that you give my regards to one,<br />the wife of the lawyer of Béthune.<br />I do not know of a person more courteous:<br />it is the lady of Tenremonde.<br />May God who gave her life under the new moon<br />give her some desire<br />to continue spreading her kindness over me! <br /><br />XL<br />Distress, you who burn me with your fire<br />– I do not know which other messenger to choose –<br />take to the mayor of Arras this brief<br />and be vigilant that it be read before him:<br />if it is God’s will, and if his nobleness of heart invites him to do so,<br />he will not cause me to lose my fief.<br />Have him also read<br />to the county magistrates, from one end to the other,<br />so that they may be seized with pity,<br />for, if I live in agony and misfortune,";
+					} else if (curImageIdx == 20) {
+						document.getElementById("Translation").innerHTML = "it is right that they share my suffering:<br />it is in their service that I developed this pain. <br /><br />XLI<br />My friends, before going,<br />I beseech you, in my twilight years,<br />by Christ and his Nativity,<br />to collect among yourselves a contribution<br />to bring to an end the fight that gives itself up<br />and that must leave no one indifferent:<br />it would be a noble donation that you would have made me<br />if I found myself brought to Méaulens with your help.<br />I do not know a dwelling that suits me better,<br />the place has pleased me for a long time,<br />for charitable people are found there,<br />and I could eat my fill there. <br /><br />XLII<br />Lady, you who are God’s mother and child,<br />make not broken<br />my heart, whatever misfortune may descend upon me,<br />for I am absolutely certain<br />that the only way I can hope to profit<br />is to adopt the behavior<br />that will make me remain at your service.<br />May you accept that it be so for me<br />and that care always be taken<br />by my heart, whatever becomes of my body,<br />to constantly remember<br />hell and heaven.";
+					} 
+				}
+			 
+				wrapper.find('.next').click(function(){
+					 curImageIdx++;
+					if(curImageIdx > total) curImageIdx = 1;
+					showImage();
+				});
+			 
+				wrapper.find('.prev').click(function(){
+					 curImageIdx--;
+					if(curImageIdx < 0) curImageIdx = total;
+					showImage();
+				});
+			 
+				//initially show image
+				showImage();
+			});
+			</script>
+		
+		</div>
+		<div id="right">
+			
+			<div id="documentName">
+				<a href="/">Home</a>
+				/ Raynaud Edition
+			</div>
+			
+			<ul class="tab">
+				<li><a href="javascript:;" class="tablinks active" onclick="openCity(event, 'About')">About</a></li>
+				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Transcription')">Transcription</a></li>
+<!--				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Translation')">Translation</a></li>-->
+                <div id="Download"><a href="docs/ReynaudEdition.xml" download>Download TEI</a></div>
+
+			</ul>
+			
+			<div id="About" class="tabcontent">
+				<p>The English translation of Les congés is based on the 1880 Reynaud edition and the Brasseur 1998 modern French translation.</p>
+			</div>
+
+			<div id="Transcription" class="tabcontent">
+			</div>
+			<div id="Translation" class="tabcontent">
+				
+			</div>
+			<script>
+				function openCity(evt, cityName) {
+					// Declare all variables
+					var i, tabcontent, tablinks;
+
+					// Get all elements with class="tabcontent" and hide them
+					tabcontent = document.getElementsByClassName("tabcontent");
+					for (i = 0; i < tabcontent.length; i++) {
+						tabcontent[i].style.display = "none";
+					}
+
+					// Get all elements with class="tablinks" and remove the class "active"
+					tablinks = document.getElementsByClassName("tablinks");
+					for (i = 0; i < tablinks.length; i++) {
+						tablinks[i].className = tablinks[i].className.replace(" active", "");
+					}
+
+					// Show the current tab, and add an "active" class to the link that opened the tab
+					document.getElementById(cityName).style.display = "block";
+					evt.currentTarget.className += " active";
+				}
+			</script>
+
+			
+			<div id="footer">
+				<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+					<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
+				</a>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

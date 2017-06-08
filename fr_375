@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    
+	<title>fr375</title>
+    <script src="jquery-1.9.1.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link href="imageviewer.css"  rel="stylesheet" type="text/css" />
+	<script src="lib/jquery-1.11.3.min.js"></script>
+	<script src="imageviewer.js"></script>
+	<link rel="icon" href="images/favicon.png">
+</head>
+<body vlink="white">
+	<!-- <header>
+		<a href="index.html">
+			<img src="images/logo.jpg" alt="Logo" style="height:100%;">
+		</a>
+	</header> -->
+	
+    <div id="content">
+<script id="details" type="text/xml"><?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+	 		<titleStmt>
+				<title>BNFfr375</title>
+	 		</titleStmt>
+	 		<publicationStmt>
+				<publisher></publisher>
+				<pubPlace></pubPlace>
+				<date></date>
+				<authority></authority>
+			   <availability>
+			      <p></p> 
+				</availability>
+		   </publicationStmt>
+	 		<sourceDesc>
+	 	      <p></p>
+	 		</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI></script>
+<script id="page1" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="28b7a9e0-42fa-4d03-9681-2948e77f8c72"/><div><p>[The congés begins in the fourth column, 10 lines down]
+
+explicit li sieges dataines li quitt
+&amp; ci pres desdit jehan bodel
+Pities &amp; ma matere puise
+mensegne ... [first page transcription unfinished]</p></body></text></TEI></script>
+
+<script id="page2" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="7b0cba83-76cb-4c43-b24b-a46aa66c1378"/></p></div><div><head>folio 162va</head><p>fais q(ue) le ??? &amp; demant
+si dolans q(ue) li cuers mecuieue
+car nule rie(n)s tant ne mes grieue
+&amp; fait dire adiu vos ama(n)t
+Congie dema(n)t a cuer mari
+a cex q(ui) soef mont nouri
+a bauduin soutemont
+aine ne le trouai esmari
+le cuer a en bonte flori
+Q(ui) de b(ie)n faire le semont
+diex croisse sonor &amp; amo&apos;t
+amer se fait atot le mo&apos;t
+a lame li soit il meri
+à la ioie du ciel lamont
+&amp; cex q(ui) tant consenti mo&apos;t
+moitie sain et moitie pouri
+Puis q(ue) ie del aler mesmoef
+n(en) doi mie port&apos; lestuef
+au (con)gie p&apos;ndre me recors
+Girart despagne or s(on) tot noef
+vo vies don si les (vos) reproef
+Reuescu sont par ceste mort
+Qon ma done en deport
+Tot soit en aumosno resort
+deua(n)t diu vos b(ie)ns (vos) aproef
+q(ui) a lame les vos resort
+nai plus bel don q(ue) (vos) aport
+a bone estrine alan renoef
+Robert werri sans nule nule doute
+me couient? partir de la route
+Ne voi mais rie&apos; dont ie mescuse
+Car de moi est seuree toute
+Joie q(ui) ma sa triue route
+&amp; tot son pooir macuse
+Lenfretes q(ue) iai tant repuse
+auoec ce mam(en)nrist &amp; use
+hontes q(ue) ie t(an)t criein &amp; doute
+q(ui) ma re(co)mande la muse
+dont ie meisme me refuse
+m?? m(en) vient aler (co)m(en) boute
+Barat nest drois q&apos;il me loise
+q(ue) sans v(ost)re (con)gie menvoise
+Faire ma peneuse semaine
+Tant sai vo manere cortoise 
+Se viax no(n) ie q(u&apos;i)l vos poise
+(Que) iai cante la daerraine
+mais sissir puet p(our) nule paine
+de cuer enferm (par)ole saine
+dont (&amp;) drois q(ui) m(en) sens aoise
+Or p&apos;mes sordra la fontaine
+Mes cuers &amp; li max q(ui) me maine
+Ne sont pas fait dune despoise
+Henri bougier a (vos) mafaite
+se nule rien (vos) ai forfaite
+Ancois q(ue) ie tiegne ma voie 
+M(o)lt du ma mesq&apos;ance entaite 
+P(uis) q(ue) ieue le cop de retraite
+</p></div><div><head>folio 162vb</head><p>dont ie garder ne me soloie
+(Vos) mescoellistes ma toupoie
+a tel eure kaine p(uis) neue joie
+mais bonte &amp; anui &amp; sofraute
+&amp; mal auoee q(ui) me gerroie
+Mais m&apos;mierie le vos ve q&apos;vroie
+Car gra&apos;t pieca q(ui) die me gaite
+Makes au dent coi q(ui) gi mere
+me guient q(ui) m(en) ju demere
+Ni a fiert mais nule sofrance
+Soue&apos;t bouties amie kavete
+Ains q(ue) li max do&apos;t on me rete
+me p(ar)?ist de vo acointance
+Or nateur mais nule pita&apos;re
+Q(ui) a liege ma mesestance
+ne ia dix ne feu entreniete
+(Qu&apos;il) ceste dolor mestance
+ains doist au cors tel penita(n)ce
+P(ar) coi lame soit fors de dete
+Robert cosset acuer pensin
+(Con)mant a diu vos &amp; mahin
+Car de moi est p(ui)s li (con)suus?
+De vos &amp; des autres meskiu
+Ce cau siecle ne voi m(en) lui
+Me fait guer areponaus
+Tost mo(n)te .i. ho(n) (con)sans
+&amp; tost descent (con) orinaus
+&amp; tost cange cure por sui
+? plus fui e(n) la voie haus
+&amp; ieue tos sais mes enviage
+lors me (con)vie(n)t p(ar) diu le giu
+Mahiu puis qu(i) si mest jugie
+N(en) doi aller sans vo (con)gie
+Ne ie pas faire ne le voel
+A diu amis vos (con)ma(n)t gie
+Refuse ma &amp; calengie
+li mons q(ue) ie ta’t amer suel
+na mais cure de m(en) orgoel
+Mais ie cuidai en(n) autre fuel
+A voir le pais eslongie
+Mais ne me lont passer le suel
+Sen lo diu &amp; engre recoel
+Q(ui)l ma m(en) quareme al(en)gie
+Vaast hube dui tote voie
+?ui ie vres v ke ie soie
+Car ai’t ne vos trouai o’brage
+Espoir se ialaisse e(n) la voie
+Vious pas aller ne deuoie
+Q(ui) mix me fust de no voiage
+Mais iai fait m(en) pelerinage
+Diex ma desfundu le passage
+Dont bone volente avoie
+Ne pourqa’t ie le tie(n)g asage
+Mors est ien ai eu mesage
+Li sarrasins q(ue) iou haoie
+A vo (con)gie wubs li clers
+M(en) vois malades &amp; enfers
+Dont dix t(os) mes amis deffende
+</p></div><div><head>foio 162vc</head><p>E neurs maues este &amp; fevs
+A me vos ostex ne me fu fers
+Dix bon g’redon vos e(n) rende
+&amp; de moi tel vengance pre(n)de 
+A son cuis en a p(ui)s amende
+Sans nu respit bru coef atende
+Car ie fui entaises t(ro)p vers
+Faigner m(o)lt plangt? q’tu es tex
+? cades es si diseteus
+Car le fai si (con)tu le dis
+Fai le q(ue) coctois &amp; ke pige
+Porte ma crois sen aras .y.
+Se tu estoies eslandis
+Tost seroies outre wandis
+Ca barlet v a brandis
+Chi ne puestu est eurer
+Faire voie &amp; moi es(con)dis
+Se tu es la (por) moi cantis
+(Con)gere chi (por) toi maleurge
+Ha maistre renaut de biasuais
+Ja est eis siecles si maluais 
+Car le fai si (con) tu le dis 
+T(ro)p longem&apos;t porte to(n) fais
+A les me(n) sui se tu ten vais
+M(o)lt fera arras assourdis
+De biax (con)tes &amp; de biax dis
+est il certes si abaubis
+Qui recouerro(n)t jamais
+La cuer en vau m(o)lt pis
+Je ne te loseng ne blandis
+Sauoir dis &amp; folie fais
+Ha nicoles li carpentiers
+(con)pains de (vos) bonaire &amp; ent&apos;rs
+A diu car de laler map&apos;st
+Ameem&apos;t &amp; volentiers
+(Con) vos fuissies mes vent&apos;?
+(vos) trouoie amo(n) besong p’st
+Or ni a autre tor q(ue) cest
+(Vos) en ires el haut (con)quest
+? forbatus mest li sent’rs
+Diex set q(ui) bons pelerins est 
+Q(ui) saie a lame me prest
+Car li cors ??? sor les gantiers
+Tibaut de le piere e(n) ces vers
+Pre(n)g (con)gie hontex &amp; couers
+(Con) cil qui fortune desmonte
+Ta(n)t mest mais li siecles diu’rs
+Q(ue) nos aler fors les trauers
+Nule pouretes ne mesfro’te
+Tot m(en) mal oubli &amp; mes(con)te
+Mais la penita’ce ??? (est) el honte
+Q(ui) seus est &amp; descouers
+&amp; diex q(ui) tote rien sormo(n)te
+En penitence le me conte
+Car trop aroie en .y. infers
+Corecies &amp; hontex &amp; mas
+</p></div><div><head>folio 162vd</head><p>(Con)mant a diu baude &amp; tumas
+Car m(o)lt p(ri)s lor acostuma(n)ce
+Diex q(ui) tous b(ie)ns acostumas
+&amp; de te verge batu mas
+Done lor vertu &amp; puissance
+De maitenir lor bone enfance
+De lor aie ere a fiancé
+Saler peusse ? damas
+Mais remes sui p(ar) (con)nissance
+Diex ma (con)tee ma keance
+Si ma fait geter ambes as
+Adiu (con)mant le monoier 
+Celui q(ui) dix puist envoier
+Pooir de porsivir sacoite
+Mais sil nel pere p(ar) desuoier
+B(ie)n si (con)mence a desploier
+Dix li laist tenir se mai(n) droite
+Il a b(ie)n prise sescoelloite
+En cou konor aime &amp; couoite
+Li laist diex sa voie employer
+&amp; tos cex auoec lui daoite
+Q(ui) aideront a me coelloite
+Q(ua)r trop crie(n) au siècle anoier
+Bretel q(ue)l gre q(ue) iou en aie
+Me (con)uient q(ue) ie me retraie
+Del siècle o ma crea(n)te empire
+Car dix reposer ne mi laie
+Enfertes &amp; puison &amp; plaie
+Ma done por le cors despire
+De lune p(ar)t pleur &amp; sospire
+Cor mesteura gait(ie)r le pire
+&amp; de lautre part me rapaie
+Diu proi calui seruir mespire
+Car au cors (est) li gues li pire
+De q(ue)l merele q(ue) ie traie
+Cuers va moi la o baudes mai(n)t
+Q(ui) tos autres campions vaint
+Car de b(ie)n faire onq(ue)s ne lasse
+Joie dont petit me remai(n)t
+&amp; sante don’t m(o)lt me sofrai(n)t
+Li doist dix ce seroit ????? masse
+Ma dolors totes autres passé
+Car en moi saune &amp; amasse
+Tos li anuis q(ui) ioie estaint
+Q(ui) ma fait croix e(n) la nasse
+Del mal don’t n?? ho(n) ne respasse
+P(or) q(ui)l lait a pla’n cop ataint
+Baude fastoul ore me(n)plaide
+Une ocoisons honteuse &amp; laide
+Q(ui) me fait cang’t m(en) estage
+Joie q(ui) ma coelli en faide
+Ne ma rien p’ste e(n) manaide
+Ains a de moi p(ui)s doble ghage
+Ciex ma vendu son avantage</p></body></text></TEI></script>
+
+<script id="page3" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p></p></body></text></TEI></script>
+		<div id="left">
+			<div id="image-gallery">
+				<div class="image-container"></div>
+				<img src="images/left.svg" class="prev"/>
+				<img src="images/right.svg"  class="next"/>
+				<div class="footer-info">
+					<span class="current"></span>/<span class="total"></span>
+				</div>
+			</div>   
+			<script type="text/javascript">
+			$(function () {
+				var images = [{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b10510319x/f335.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b10510319x/f336.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b10510319x/f337.highres',
+				}];
+			 
+				var curImageIdx = 1,
+					total = images.length;
+				var wrapper = $('#image-gallery'),
+					curSpan = wrapper.find('.current');
+				var viewer = ImageViewer(wrapper.find('.image-container'));
+			 
+				//display total count
+				wrapper.find('.total').html(total);
+			 
+				function showImage(){
+					var imgObj = images[curImageIdx - 1];
+					viewer.load(imgObj.small, imgObj.big);
+					curSpan.html(curImageIdx);
+					
+					if (curImageIdx == 1) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page1').innerHTML;
+					} else if (curImageIdx == 2) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page2').innerHTML;
+					} else if (curImageIdx == 3) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page3').innerHTML;
+					}
+				}
+			 
+				wrapper.find('.next').click(function(){
+					 curImageIdx++;
+					if(curImageIdx > total) curImageIdx = 1;
+					showImage();
+				});
+			 
+				wrapper.find('.prev').click(function(){
+					 curImageIdx--;
+					if(curImageIdx < 0) curImageIdx = total;
+					showImage();
+				});
+			 
+				//initially show image
+				showImage();
+				
+				
+				
+				
+				
+			});
+			</script>
+		
+		</div>
+		<div id="right">
+			<div id="documentName">
+				<a href="/">Home</a>
+				/ BNF fr375
+			</div>
+			
+			
+			<ul class="tab">
+				<li><a href="javascript:;" class="tablinks active" onclick="openCity(event, 'About')">About</a></li>
+				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Transcription')">Transcription</a></li>
+<!--				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Translation')">Translation</a></li>-->
+				<div id="Download"><a href="docs/fr375.xml" download>Download TEI</a></div>
+			</ul>
+			
+			<div id="About" class="tabcontent">
+			  <p>BnF fr. 375, transcribed by Rachel Sapp, is a base manuscript ready for collation. This transcription has been verified by Lynn Ramey, but parts of it are still unclear.</p>
+			</div>
+
+			<div id="Transcription" class="tabcontent">
+			  
+			</div>
+			<div id="Translation" class="tabcontent">
+				<p>BnF fr. 375 is in the process of translation.</p>
+			</div>
+			<script>
+				function openCity(evt, cityName) {
+					// Declare all variables
+					var i, tabcontent, tablinks;
+
+					// Get all elements with class="tabcontent" and hide them
+					tabcontent = document.getElementsByClassName("tabcontent");
+					for (i = 0; i < tabcontent.length; i++) {
+						tabcontent[i].style.display = "none";
+					}
+
+					// Get all elements with class="tablinks" and remove the class "active"
+					tablinks = document.getElementsByClassName("tablinks");
+					for (i = 0; i < tablinks.length; i++) {
+						tablinks[i].className = tablinks[i].className.replace(" active", "");
+					}
+
+					// Show the current tab, and add an "active" class to the link that opened the tab
+					document.getElementById(cityName).style.display = "block";
+					evt.currentTarget.className += " active";
+				}
+			</script>
+			
+			<div id="footer">
+				<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+					<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
+					<!-- This work is licensed under a
+					<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a> -->
+					<!-- &copy; Lynn Ramey 2016, All rights reserved. -->
+				
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

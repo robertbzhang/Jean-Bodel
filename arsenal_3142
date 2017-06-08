@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+ 
+<html>
+<head>
+    
+	<title>Arsenal 3142</title>
+    <script src="jquery-1.9.1.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<link href="imageviewer.css"  rel="stylesheet" type="text/css" />
+	<script src="lib/jquery-1.11.3.min.js"></script>
+	<script src="imageviewer.js"></script>
+	<link rel="icon" href="images/favicon.png">
+</head>
+<body vlink="white">
+	<!-- <header> -->
+		<!-- <a href="index.html"> -->
+			<!-- <img src="images/logo.jpg" alt="Logo" style="height:100%;"> -->
+		<!-- </a> -->
+	<!-- </header> -->
+	
+    <div id="content">
+<script id="details" type="text/xml"><?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+	 		<titleStmt>
+				<title>A digital edition of Arsenal 3142</title>
+				<author>Lynn Ramey</author>
+	 		</titleStmt>
+	 		<publicationStmt>
+				<publisher>Juxtaeditions</publisher>
+				<pubPlace></pubPlace>
+				<date>Fall 2015</date>
+				<authority></authority>
+			   <availability>
+			      <p></p> 
+				</availability>
+		   </publicationStmt>
+	 		<sourceDesc>
+	 			<biblFull>
+   	 			  <titleStmt>
+      	 			    
+      					   <title type="main">Les congés</title>
+         					<author>Jean Bodel</author>
+         					<editor></editor>
+   				  </titleStmt>
+   				  <publicationStmt>
+         				
+         					<publisher></publisher>
+         					<pubPlace></pubPlace>
+         					<date></date>
+      			 </publicationStmt>
+				</biblFull>
+				<msDesc>
+				  <msIdentifier>
+							<repository>Bibliothèque nationale française - Arsenal</repository>
+							<idno>ms 3142</idno>
+				  </msIdentifier>
+				  <msContents>
+				    <msItem>
+				      <bibl>
+								<author>scribe unknown</author>
+								<title></title>
+								<date></date>
+				      </bibl>
+				    </msItem>
+				  </msContents>
+				  <physDesc>
+					</physDesc>
+				</msDesc>
+	 		</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI></script>
+<script id="page1" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="ef84e9db-e30d-4ece-bf47-96a61a56de41"/><div><p>Pitiez ou ma
+matere pruse
+mensaigne ke&apos; 
+ce me deduise
+Kie? sor ma
+inatere die
+?eit droit que mon sens amenuise
+pour nul mal q(ue) le cors destruise
+Dont diex a fait sa (co)mandie
+puis q(ui)l ma ioue de bondie
+Sans barat &amp; sans truandie
+est droit q(ue) ie a chascun ruise
+Tel don q(ue) nus ne mescondie
+Congie ains conme contredie
+Car des or criem q(ue) ne lor nuise
+Congie demant tout p(re)merain
+a cehu q(ui) plus mest a main
+&amp; dont ie miex loer me doi
+<name>Jehan boschet</name> adieu remain
+plorant recor &amp; soir &amp; main
+Les biens q(ue) iai trouuez encor
+B? e ie plor souuent en req(uo)i
+assez ?a raison pourquoi
+auques annuit &amp; plus demain
+Neporquant se ie ne vous voi
+purement mo(n) cuer &amp;? enuoi
+Tant a en moi remes desain
+Quers se tu trop vilain nen ies
+je ne li oncles ne li mes
+prierent de mon escrit plane
+Onq(ue)s ne lor sambloie vies
+Car en aus est mes liges fies
+Tous iours mo(n)t alor cust mene
+Certes ne sont mie engane
+Pour dieux soit kanq(ui)l mo(n)t donne
+tex dons est ml&apos;t bien enploiies
+Or ma diex apoint ramene
+a ce quil manoit destine
+Dont ie sui &amp; dolans &amp; lies
+<name>Symon diser</name><placeName>iser </placeName>de vous me vant
+Tous iours &amp; apres &amp; deuant
+Car toute honnours en v(??) achieue
+Maintes gens sen vont p(ar)ceuant
+?o baniere a non passe auant
+Q(ue) tous les abatus relieue
+<name>Symon</name> vns maus q(ui) en moi lieue
+Q(ui) atout mon viuant me fieu?
+fait q(ue) le congie &amp; demant
+Si dolans q(ue) li cuers me crieue
+Car nule riens tant ne me g(ri)eue
+Com fait dire a dieu &amp; (c)omant
+Congie demant a cuer mari
+a ceans q(ui) soef mont norri
+&amp; a <name>bauduin zoutemont</name>
+a me ne le trouuai esmari
+Le cuer a en bonte flori
+Q(ui) de bien faire le semont
+Diex croisse sonneur &amp; amont
+amer se fait a tout le mont
+a lame li soit il meri
+En la ioie dou ciel la mont
+&amp; tous ceans q(ui) tant soufert mont
+Moitie sain &amp; moitie porri
+Thiebaut de la pierre en ces vers
+pren congie honteus &amp; couuers
+Com cil q(ui) fortune desmonte
+Tant mest mais li siecles dur?is
+Q(ue) nos aler fors les trauers
+? ule pouretez ne mesfronte
+Mais li pouretez est el onte
+Q(ui) seus est &amp; descouuers
+&amp; diex q(ui) toute riens sormonte
+En penitance le me conte
+Car trop auroie en .ij. enfers
+<name>Bretel</name> quel gre q(ue) ie en aie
+me couuient q(ue) ie me retraie
+Dou siecle ou ma cheance empire
+Q(ue) diex reposer ne mi laie
+Enferte &amp; poison &amp; plaie
+Or mestouura gitier le pire
+au cuer en ai dolor &amp; ire
+&amp; de lautre part me rapaie
+Diex q(ui) alui seruir mespire
+Car au cors est mes ieus li pire
+?equel merele q(ue) ie traie
+Anius q(ui) en mon cuer auale
+chiere tempestee &amp; pale
+Q(ui) me fait souple deuenir
+ainsois q(ue) ie trousse ma male
+Di moi ka w?ibert de la sale
+preng ie congie sans reuenir
+bien me doit tous iours sans fenir
+De son gentil cors souuenir
+Ou il na ne sor os ne gale
+&amp; de moi soit au couuienir
+Car ne puis mais na?e tenir
+?ntre sains puis q(ue) ie mesale
+?Qaast huche dieu toute voie
+Bui ie vostres ou q(ue) ie soie
+Car ame ne vous avuirai? ombrage
+Esp?oir se ialasse en la voie
+Ou ie pas aler ne deuoie
+Miex me fust de vostre voiage
+Mais iai fait mo(n) pelerinage
+Diex ma desfendu le passage
+dont bonne volente auoie
+Neporquant ie len viens a sage
+Mors est ien ai eu message
+Li sarrazins q(ue) ie haoie
+Robert cosset aouer pensui
+Comnant a dieu v(os) &amp; mahui?
+Car de moi est pris li consaus
+De vous &amp; des autres meschiu
+Ce kau siecle ne voi mon lui
+Me fait iouer a repoinnaus?
+Tost montre vns hom ?o amiraus
+&amp; tost rechiet com ormaus
+Tost a changie cire pour sui
+Com plus fui en la rochaus
+ioi fait tous mes enuiaus
+Lors me couuint p?erdre le gui
+me q(ui) vers moi es rpointre</p></body></text></TEI></script>
+
+<script id="page2" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="209640fe-a724-4121-89e2-cf88129916c7"/></p></div><div><head>folio 227rb</head></div><div><head>folio 227rc</head></div><div><head>folio 227va</head><p>Dusqua biauvais fai vne pointe
+Si me salue a cuer haitie
+Le chastelain a cui sappointe
+a mours q(ui) le fait sae &amp; cointe
+&amp; debonaire &amp; afaitie
+Tout son cuer ne mie <add cert="medium" hand="different" place="inline">a moitie</add>
+a en courtoisie aiouitie
+Sen a vilonnie desiointe
+decens li muet &amp; de pitie
+Q(ui) a son coust ma acointie
+de ce dont mais me desa coi(n)te
+Anuis q(ui) mestoupes la gueule
+Q(ui) tant fu anmeuse &amp; verite
+<name>Robert louchart</name> me disans fai(n)dre
+Q(ar??) ioie me fuit &amp; eskeule
+de dru fourment en Wide esteule
+Sui mis? mais trop auroie a plai(n)dre
+En tout recorder &amp; refraindre
+Lanui dont diex me fait destrai(n)dre
+Q(ui) si mabaubist &amp; aueule
+Q(ar?) nus ne me porroit ataindre
+danui? q(ue) li miens ne soit grai(n)dre
+mais cui vient vne ne vie(n)t seule
+<name>Robert Werri </name>sans nule doute
+me conuient p(ar)tir de la route
+p??? voi mais riens do(n)t ie mesaise
+Car de moi est p(ar)tie toute
+Joie q(ui) ma sa truie route
+&amp; de tout son pouoir macuse
+Lenfertes q(ue) iai tant reprise
+auoec ce mamenrist &amp; vse
+honte q(ue) ie tant criem &amp; doute
+Q(ui) ma reco(n)mande la muse
+dont ie meismes me refuse
+miex me vient aler con me(n)bonte
+Anuis q(ui) abas maint daudel
+Q(ui) mas fait torner mo(n) chandel
+vers <placeName>saint uiri</placeName> torne ton frain
+<name>Wibert de biaumont</name> &amp; <name>ansel</name>
+Salue p(ar) <name>iehan bodel</name>
+Cui diex met de coute alestram
+<name>Seigneur mahui</name> q(ue) ie m(u)lt ain
+di q(ue) ioie q(ui)te li clain
+dont iai bien pris mo(n) karesinel
+</p></div><div><head>folio 227vb</head></p></body></text></TEI></script>
+
+<script id="page3" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="e7be7947-545c-46fc-aed1-0862af62fb9c"/>Cuers va la ou <name>bauduins</name> mai(n)t
+Q(ui) tous autres champio(n)s vai(s?)t
+Car de bien faire onq(ue)s ne lasse
+Joie dont petit me remai(n)t
+&amp; sante q(ui) ml&apos;t me soufraint
+&amp; biens tant com il me(n) trespasse
+Lidoinst diex ce seroit g(ra)nt masse
+Car en moi saune &amp; amasse
+Tous li anuis q(ui) ioie estaint
+Q(ui) ma fait cheoir en la nasse
+Dun mal de quoi mis ne respasse
+puis q(ue) il aplain coup la taint
+<name>Berant</name> nest drois pour q(ui)l me loise
+Or sans vostre congie me(n)voise
+?? ma pneuse semaine
+Tant sai vo maniere courtoise
+Q(ue) iai chante la daerraine
+Mais fisser puet p(ar) nule paine
+decors enferm parole sanie
+dont est drois q(ue) mo(n) sens nacoise
+Orprimes sourdra la fontaine
+Mes cuers &amp; li maus q(ui) me maine
+&amp; ne sont pas fait dune despoise
+Pitiez q(ui) mas apris ton liure
+<name>abaudeboulart</name> me deluire
+dili q(ue) il adieu remaigne
+Q(ue) hontes &amp; anuis men ?yure
+Q(ui) nuit &amp; iour assaut me Hure
+&amp; loc &amp; chastie &amp; ensaigne
+Q(ue) pour aise q(ui) me soufraigne
+plus ne me mete enlor (com)paigne
+assez enont soufert la ?uure
+Loer me doi q(ui) q(ue) sen plaigne
+dedieu q(ui) me donte &amp; ensaigne
+d une mort dont on puet reuuire
+Pitiez q(ui) par vous me dontes
+auoec mes bons amis contes
+<name>Martin verdiere de <placeName>lafors</placeName></name>
+Jehu est drois chemins antes
+&amp; bertian pas ni ouglies
+Car sa promesse mest tresors
+Ja ne il ne mahuis li fors
+demon escrit ne seront fors
+comment &amp; soie desmonter
+Mais contre dieu ne vaut n(?) sors
+&amp; puis q(ui)l ma tolu le cors
+Jeh doins lame de bontes
+Anuis q(ui) en mo(n) cuer se mire
+salue moi ioffroi le mire
+Car bien doi alui co(n)gie prendre
+Je sui ses hom il est me sire
+bien ai prouue son maiestire
+Nus hom ne len porroit aprendre
+Ml&apos;t li conuint grant paine rendre
+a ma char solder &amp; reprendre
+Q(ui) tant ert de foible matere
+Co(m)ment osa il entreprendre
+tel teste a roismer &amp; a fendre
+Qert mauuaise toute entire
+Anuis q(ui) ma ioie as destruite
+dahauine pie dargent macuite
+vasi le me salue encore	Car metre mestuet ala fuite
+&amp; toute ioie clamer cuite
+Q(ui) ma norri desi a ore
+Mais ceste pouretez me doi
+Q(ue) ie sai bien q(ue) diex restore
+Q(ui) en grace prent ceste fuite
+Or primes vueil mo(n) sens desdorre
+Le cuer ornirir &amp; les iex cloire
+Car il maiorne &amp; si mamuite
+Bauduin fastoul or menplaide
+vne ochoisons honteuse &amp; laide
+Q(ui) ma fait changier mo(n) estage
+Joie q(ui) ma cueilli en faite
+? e ma riens preste en manai?e
+ains a de moi pris double gage
+Chier ma vendu son auantage
+M?ais ie tieng a preu le damage
+Q(ui) a me nuist sil aillours maite
+bone esperance massoage
+dela grant ioie a metage
+Quchascuns a kanq(ui)l sohaite
+Pitiez va la ou ie ne vois
+Congie prendre as pies dargentois
+Com plus les ain plus les eschieue
+<name>Symon</name>? al diex en cui tu crois
+Il te laist bien porter ta crois
+Onie ne puis porter la miue
+Remes sui dedens la banliue
+Paien ont de moi ferme triue
+Mais se diex fust assez courtois
+Tant meust veau? preste fay?ue
+Ken la terre q(ui) ja fu siue
+C?usse fait vn seruentois
+Couroucens &amp; honteux &amp; mas
+Co(m)mant adieu <name>baude</name> &amp; <name>thomas</name>
+Car ml&apos;t pris lor acoustumance
+diex q(ui) tous biens acoustumas
+Q(ui) de ta verge batu mas
+conne lor vertu &amp; poissance
+de maintenir lor bone enfance
+delor ay?e ere en fiance
+B?aler peusse vers <placeName>damas</placeName>
+Mais remez sui p(ar) (c)onoissance
+diex ma contee ma cheance
+B?i ma fait geter ambes as
+Pitiez q(ui) en moi se desploie
+Q(ui) mama?ust &amp; assouploie
+Me semont p(ar) iour &amp; par nuit
+kan siecle me toisse &amp; desuoie
+&amp; bonte q(ui) me reconnoie
+Q(ui) pieca mo&apos;t pris en conduit
+Car en lieu ou il a deduit
+?amais a mon oes siege viut
+ains preng congie ?com hom sor voie
+a celui cui sornons me fuit
+Car grant difference a ie cuit
+de <name>iehan</name> duel a <name>Gerart</name> ioie
+Avo congie <name>Waubers li clers</name>
+pren vois malades &amp; enfers
+?ont diex tous mes amis deffende
+E?ntiers mauez este &amp; fers
+Onq(ue)s vos huis ne me fu fers
+Separtir voil a vo prouende
+diex bon guerredon v(os) entende
+&amp; de moi tel veniance prende
+Q(ue) lisiens huis me soit desfers
+a son chois enapris amende
+Sans nul respas kaucors atende
+Car ie fui entasses trop vers</p></body></text></TEI></script>
+
+<script id="page4" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="41931caa-c4ef-4f07-8162-a54aad208b9f"/></p></div><div><head>folio 228ra</head></div><div><head>folio 228rb</head></div><div><head>folio 228rc</head></div><div><head>folio 228va</head><p>Puis q(ue) ie de laler mesinuef
+Nen doi mie porter lestuef
+a ii congie prendre me racort
+<name>Gerart d<placeName>espaigne</placeName></name> orst(?) tout neuf
+ve viel don &amp; sile v(os) pruef
+Reuescu sont p(ar) ceste mort
+k aucuns ma donne en deport
+Tout soit en aumosne ressort
+Deuant dieu vos b?ns v? repruef
+Quil a lame les &amp; restort
+Rai plus biau do(n) q(ue) vous aport
+a bonne estrine alan renuef
+Adieu <name>omant le monoier</name>
+celui au diex prist enuouer
+pouoir de poursiuir la corte
+car fil ne p(ar)t p(?) desuouer
+bien se (c)comence a desploiier
+diex li laist sa mai(n) tenir droite
+Jl a bien prise sescueilloite
+?nce co(n)nour aime &amp; couuoite
+Li laist diex sa voie emploiier
+&amp; tous ceans auoec lui d?oite
+Q(ui) aideront ama cueilloite
+car trop criem au siecle anouer
+a?maistre renaut de biauuais
+Ja est li siecles si mauuais
+car le fai si come tule dis
+trop longriement porter to(n) fais
+a les men sui se tu fi fais
+trop seroit arras assourdis
+de biaus contes &amp; de biaus dis
+certes seroit si rebondis
+quil ni recouvra jamais
+je ne te losench ne blandir
+mais tous les lorgnes co(n)tredis
+Bauo? dis &amp; folies fais
+Caignet m(u)lt plaig? q(ue) tu esteus
+?? tous iours es sidiseteus
+car le fai si com tu le dis
+fai le q(ue) courtois &amp; q(ue) preus
+porte ma crois sen auras .ij.
+car se tu cres eslandir
+tost seroies outre wandis
+Ou a barlete ou a brandis
+</p></div><div><head>folio 228vb</head><p>?i ne pues tu estre eureus
+fai ta voie &amp; moi escondis
+Be tu es la pour moi chants
+?ier ci pour toi maleureus
+ha <name>nicholes li charpentiers</name>
+?pains debonaire &amp; entiers
+a dieu car de laler maprest
+a nieement &amp; volentiers
+com se vous fussiez mes re(n)tiers
+vous trouuoie a mo(n)besoig? prest
+or ma autre tour q(ue) cest
+vous en nes enbaut co(n)quest
+Ou forbatus mest li sentiers
+diex set q(ui) bons pelerins est
+Q(ui) say?e a lame vous prest
+car li cors est sor les gantiers
+Pitiez salue de ma part
+Robert au dent lui &amp; bernart
+car tous iours mo(n)t este ambeure
+amiable &amp; de bone part
+mis pour ?oi li cuers ne me p(ar)t
+coubles pensers q(ui) me court seur?
+joie &amp; doleur en mo(n) cuer neure
+plaing &amp; souspir &amp; chante &amp; pleure
+a mo(n) sens &amp; a mon esgart
+Bui ie &amp; desouz &amp; deseure
+Li cors senua lame demeure
+ainsi demeure ainsi menpart
+Pitiez q(ui) en mo(n) cuer abonde
+Bahie moi ala reonde
+arras &amp; toute la (con?)mune
+car toute honnors en aussor?de
+mais seur toutes celes dou mo(n)de
+vueil q(ue) tu men salues vne
+Lavoeresse de betune
+plus courtoise ne sai nisune
+cest <name>la dame de <placeName>tenremo(n)de</placeName></name>
+diex q(ui) la fist enp?ine lune
+mete en li volente aucune
+Q? sa bonte sor moi rabonde
+Pities q(ui) en moi es esprise
+Resai kautre mes ieslise
+porte au maieur darras ce brief
+fai tant q(ue) deuant sor le lise
+</p></div><div><head>folio 228vc</head><p>?e dieu plaist &amp; sa gentelise
+Ja en lui ne p(ar)drai mo(n) fief
+&amp; as escheuins de rechief
+Lefai lur? de chief enchies
+Tant q(ue) pites lor ensoit prise
+car se iai anui &amp; meschief
+p(ar) raison lor doit estre grief
+auenus mest en lor seruise
+Seignor aincois q(ue) ie men aille
+vous proi aceste definaille
+pour dieu &amp; pour natiuite
+kentre vous faites vne taille
+a parfournir ceste bataille
+dont chascuns doit auoir pite
+m(u)lt maurues bien herite
+sa miaulens maulies bonte
+resai maison q(ui) miex me vaille
+pieca ma li lieus delite
+car gent ?a de charite
+Bemi sousiroit la vitaille
+Came au diex est pere &amp; fis
+vueilliez q(ue) ne soit desconfis
+mes cuers quoi q(ui)l me mesauiensne
+car ie sui de ce trestous fis
+ken rien ne gist tant mes porfis
+ken ce q(ue) ie fi me mai(n)tiengne
+Q? en vo seruice me tiengne
+plaise vous kainsi me(n) auiengne
+&amp; q(ue) ader soit ententis
+mes cuers quels q(ue) mes cors deuiengne
+Q? tout ades li ressouuiengne
+&amp; denfer &amp; de paradis
+Dame en cui sont tout bie(n) logie
+a vo condoille pren congie
+Q? (con?)onnastes as iougleours
+a li baisier ai renonae
+p(ar) vn mail q(ui)si ma blecie
+kaler me couuient les destours
+Duskali niert mais mes retours
+Mais mamour li laisse a tous iours
+&amp; q?? iere ou petit marchie
+demoi iert baisie la tours
+Ou establies est ses reiours
+</p></div><div><head>folio 229ra</head><p>Saurai cuer mains mesaaisie</p></body></text></TEI></script>
+
+<script id="page5" type="text/xml"><?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><text><body><p><pb facs="14846350-0a10-49a0-9f4c-0b0c84fbeb15"/>he: menestrel douch conpaignon
+ami mauez este &amp; bon
+Come tres sin loial confrere
+a pourchacier ma garison
+mauez fait amour &amp; raison
+plus q(ue) se tout fussiez mi frere
+diex vous ensoit grierredonnere
+&amp; sa tres douce chiere mere
+Q(ui) avous a fait le haut don
+priies q(ue) sa largece p?ere
+En moi. p(ar)quoi prit a son pere
+a son fill pour moi pardon
+A dieu vous vueil tous (con)mander
+ensamble sans chascu(n) no(m)mer
+car ma nul dont ie me plaigne
+a uis men lo m(u)lt &amp; doi loer
+devous me conuient eschuier
+Conment q(ue) li cuers me(n) destraigne
+auoec m(u)lt dru?se conpaigne
+Mestuet q(ue) ie me raco(n)paigne
+Or mi doinst diex si endurer
+Le mail q(ui) le mien cors mehaigne
+Q? p(ar) prendre en gre ataigne
+a dieu mame representer
+
+</p><p>
+Explicuint li congie <name>iehan bodel</name></p></body></text></TEI></script>
+		<div id="left">
+			<div id="image-gallery">
+				<div class="image-container"></div>
+				<img src="images/left.svg" class="prev"/>
+				<img src="images/right.svg"  class="next"/>
+				<div class="footer-info">
+					<span class="current"></span>/<span class="total"></span>
+				</div>
+			</div>   
+			<script type="text/javascript">
+			$(function () {
+				var images = [{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b55003999w/f465.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b55003999w/f466.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b55003999w/f467.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b55003999w/f468.highres',
+				},{
+					small : 'http://gallica.bnf.fr/ark:/12148/btv1b55003999w/f469.highres',
+				}];
+			 
+				var curImageIdx = 1,
+					total = images.length;
+				var wrapper = $('#image-gallery'),
+					curSpan = wrapper.find('.current');
+				var viewer = ImageViewer(wrapper.find('.image-container'));
+			 
+				//display total count
+				wrapper.find('.total').html(total);
+			 
+				function showImage(){
+					var imgObj = images[curImageIdx - 1];
+					viewer.load(imgObj.small, imgObj.big);
+					curSpan.html(curImageIdx);
+					if (curImageIdx == 1) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page1').innerHTML;
+					} else if (curImageIdx == 2) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page2').innerHTML;
+					} else if (curImageIdx == 3) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page3').innerHTML;
+					} else if (curImageIdx == 4) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page4').innerHTML;
+					} else if (curImageIdx == 5) {
+						document.getElementById("Transcription").innerHTML = document.getElementById('page5').innerHTML;
+					}
+				}
+			 
+				wrapper.find('.next').click(function(){
+					 curImageIdx++;
+					if(curImageIdx > total) curImageIdx = 1;
+					showImage();
+				});
+			 
+				wrapper.find('.prev').click(function(){
+					 curImageIdx--;
+					if(curImageIdx < 0) curImageIdx = total;
+					showImage();
+				});
+			 
+				//initially show image
+				showImage();
+			});
+			</script>
+		
+		</div>
+		<div id="right">
+			
+			<div id="documentName">
+				<a href="/">Home</a>
+				/ Arsenal 3142
+			</div>
+			
+			<ul class="tab">
+				<li><a href="javascript:;" class="tablinks active" onclick="openCity(event, 'About')">About</a></li>
+				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Transcription')">Transcription</a></li>
+<!--				<li><a href="javascript:;" class="tablinks" onclick="openCity(event, 'Translation')">Translation</a></li>-->
+                <div id="Download"><a href="docs/3142.xml" download>Download TEI</a></div>
+			</ul>
+			
+			<div id="About" class="tabcontent">
+			  <p>Arsenal 3142, transcribed by Lynn Ramey, is another of our base manuscripts and it, too, is ready for collation. This manuscript needs to be checked by a second person.</p>
+			</div>
+
+			<div id="Transcription" class="tabcontent">
+			  <p>
+			</div>
+			<div id="Translation" class="tabcontent">
+				<p>Arsenal 3142 is in the process of translation.</p>				
+			</div>
+			<script>
+				function openCity(evt, cityName) {
+					// Declare all variables
+					var i, tabcontent, tablinks;
+
+					// Get all elements with class="tabcontent" and hide them
+					tabcontent = document.getElementsByClassName("tabcontent");
+					for (i = 0; i < tabcontent.length; i++) {
+						tabcontent[i].style.display = "none";
+					}
+
+					// Get all elements with class="tablinks" and remove the class "active"
+					tablinks = document.getElementsByClassName("tablinks");
+					for (i = 0; i < tablinks.length; i++) {
+						tablinks[i].className = tablinks[i].className.replace(" active", "");
+					}
+
+					// Show the current tab, and add an "active" class to the link that opened the tab
+					document.getElementById(cityName).style.display = "block";
+					evt.currentTarget.className += " active";
+				}
+			</script>
+
+			
+			<div id="footer">
+				<!-- &copy; Lynn Ramey 2016, All rights reserved. -->
+				<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> 
+					<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png">
+				</a>
+			</div>
+		</div>
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,48 @@
+html, body {
+  background-color: black;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+  margin: 0;
+}
+.title {
+  background-color: rgb(0, 51, 153);
+  height: 30px;
+  color: white;
+  padding-left: 10px; 
+  padding-top: 12px; 
+}
+.gallery {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.non-gallery {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+#left {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+#right {
+  float: left;
+  width: calc(50% - 1px);
+  height: 100%;
+  border-left-style: solid;
+  border-left-width: 1px;
+}
+#left-content {
+  white-space: pre-wrap;
+  background-color: white;
+  padding: 10px;
+}
+#right-content {
+  white-space: pre-wrap;
+  background-color: white;
+  padding: 10px;
+}
+teiHeader {
+  white-space: nowrap;
+}
